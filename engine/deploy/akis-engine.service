@@ -1,0 +1,18 @@
+[Unit]
+Description=Akış haber motoru (RSS -> yerel LLM -> GitHub)
+After=network-online.target ollama.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=%h/NewsFeed/engine
+ExecStart=%h/.local/bin/uv run --frozen newsfeed loop
+Restart=always
+RestartSec=60
+Environment=PYTHONUNBUFFERED=1
+# Masaüstü kullanımı sırasında bilgisayarı yavaşlatmasın
+Nice=10
+IOSchedulingClass=idle
+
+[Install]
+WantedBy=default.target

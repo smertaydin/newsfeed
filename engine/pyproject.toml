@@ -1,0 +1,21 @@
+[project]
+name = "newsfeed"
+version = "0.1.0"
+requires-python = ">=3.14"
+dependencies = [
+    "feedparser>=6.0.14",
+    "httpx>=0.28.1",
+    "numpy>=2.5.3",
+    "pyyaml>=6.0.3",
+    "trafilatura>=2.2.0",
+]
+
+[project.scripts]
+newsfeed = "newsfeed.main:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["newsfeed"]

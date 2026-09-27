@@ -1,0 +1,69 @@
+# Haber motoru ayarları. Değişiklikler bir sonraki turda geçerli olur.
+
+sources:
+  # Kaynak listesi düzenli olarak buradan yeniden okunur; yeni eklenen RSS'ler otomatik devreye girer.
+  url: https://raw.githubusercontent.com/smertaydin/RSS/main/rss.json
+  fallback_url: https://cdn.jsdelivr.net/gh/smertaydin/RSS@main/rss.json
+  refresh_minutes: 60
+
+  # rss.json'daki kategori adı -> sitedeki bölüm. Bölüm yalnızca bir ipucudur;
+  # model haberi okuduktan sonra son kararı verir (ör. Gündem beslemesindeki bir maç haberi Spor'a gider).
+  category_map:
+    Gündem: gundem
+    Siyaset: gundem
+    Adalet&Hukuk: gundem
+    Dünya: dunya
+    Ekonomi: ekonomi
+    Dünya Ekonomisi: ekonomi
+    İş Dünyası: ekonomi
+    Bilim&Teknoloji: teknoloji
+    Spor: spor
+
+  # Bu kategoriler hiç çekilmez. rss.json'a burada ve yukarıda olmayan yeni bir kategori
+  # eklenirse adı benzer bir bölüme eşlenmeye çalışılır, eşlenemezse loglanır ve atlanır.
+  ignore: [Yazarlar, Kültür&Sanat, Yaşam, Sağlık, Eğitim, Astroloji, Magazin, Otomotiv, Gurme, Seyahat]
+
+sections:
+  gundem: Gündem
+  ekonomi: Ekonomi
+  dunya: Dünya
+  teknoloji: Teknoloji
+  spor: Spor
+
+models:
+  host: http://127.0.0.1:11434
+  llm: gemma4:e4b-it-qat
+  embed: bge-m3
+  # GTX 1060 6GB için: modelin tamamı GPU'da kalsın diye bağlam penceresi sınırlı tutulur.
+  num_ctx: 8192
+  keep_alive: 10m
+
+pipeline:
+  interval_minutes: 15
+  # Bir turun LLM için harcayabileceği azami süre; kalan işler bir sonraki tura kalır.
+  llm_budget_seconds: 600
+  max_item_age_hours: 30
+  story_window_hours: 48       # bir hikâyeye yeni kaynak eklenebilecek süre
+  publish_window_hours: 36     # sitede ve RSS'te tutulacak süre
+  # bge-m3 kosinüs benzerliği eşikleri: üstü aynı olay, arası modele sorulur, altı yeni hikâye
+  join_threshold: 0.80
+  ask_threshold: 0.70
+  centroid_threshold: 0.74    # hikâyenin ortalamasına benzerlik (zincirleme birleşmeyi önler)
+  max_judge_calls: 200        # tur başına modele sorulacak belirsiz eşleşme sayısı
+  full_story_min_importance: 3   # tek kaynaklı haberlerde ayrıntılı özet için gereken önem
+  max_sources_per_prompt: 5
+  max_chars_per_source: 2200
+  triage_batch: 10
+  triage_max_age_hours: 20     # bundan eski tek kaynaklı haberler hiç işlenmez (ilk açılıştaki birikim için)
+  fetch_concurrency: 12
+  per_host_concurrency: 2
+  brief_every_minutes: 60
+
+publish:
+  # Veri, kod geçmişini şişirmemek için ayrı bir dala tek commit olarak (force push) gönderilir.
+  enabled: true
+  repo_dir: ../            # git deposunun kökü
+  branch: data
+  site_url: https://example.vercel.app   # Vercel adresi belli olunca güncelleyin
+  feed_title: Akış
+  feed_description: Gündem, ekonomi, dünya, teknoloji ve spordan derlenmiş, sürekli güncellenen haber akışı.
