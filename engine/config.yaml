@@ -64,6 +64,6 @@ publish:
   enabled: true
   repo_dir: ../            # git deposunun kökü
   branch: data
-  site_url: https://example.vercel.app   # Vercel adresi belli olunca güncelleyin
+  site_url: https://newsfeed-pi.vercel.app
   feed_title: Akış
   feed_description: Gündem, ekonomi, dünya, teknoloji ve spordan derlenmiş, sürekli güncellenen haber akışı.
