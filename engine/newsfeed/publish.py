@@ -168,6 +168,11 @@ def push(cfg, out: Path) -> None:
             shutil.rmtree(item) if item.is_dir() else item.unlink()
     shutil.copytree(out, work, dirs_exist_ok=True)
     (work / "README.md").write_text("Bu dal haber motoru tarafından otomatik üretilir; elle düzenlemeyin.\n", encoding="utf-8")
+    # Vercel her dala yapılan push'ta deploy dener ve ayarı deploy ettiği dalın Root Directory'sinden (web/) okur.
+    # Bu dalda site kodu yok; bu dosya olmadan her veri güncellemesi "Root Directory yok" hatasıyla düşer.
+    (work / "web").mkdir(exist_ok=True)
+    (work / "web" / "vercel.json").write_text(
+        json.dumps({"git": {"deploymentEnabled": False}, "ignoreCommand": "exit 0"}, indent=2) + "\n", encoding="utf-8")
     _git(work, "checkout", "-q", "--orphan", "_tmp")
     _git(work, "add", "-A")
     _git(work, "commit", "-q", "-m", f"Veri güncellemesi {now()}")
