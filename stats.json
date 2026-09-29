@@ -1,0 +1,1 @@
+{"generatedAt":"2026-09-29T15:46:57+00:00","model":"gemma4:e4b-it-qat","embedModel":"bge-m3","cycleSeconds":419,"newArticles":43,"embedded":43,"newStories":29,"joined":14,"triaged":20,"written":4,"llm":{"calls":35,"seconds":198.0,"in_tokens":23428,"out_tokens":3953},"backlog":511,"feeds":100,"intervalMinutes":15}

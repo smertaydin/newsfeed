@@ -1,0 +1,652 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Akış · Dünya</title>
+    <link>https://newsfeed-pi.vercel.app</link>
+    <atom:link href="https://newsfeed-pi.vercel.app/rss/dunya.xml" rel="self" type="application/rss+xml"/>
+    <description>Gündem, ekonomi, dünya, teknoloji ve spordan derlenmiş, sürekli güncellenen haber akışı.</description>
+    <language>tr</language>
+    <lastBuildDate>Tue, 29 Sep 2026 15:46:58 +0000</lastBuildDate>
+    <ttl>15</ttl>
+    <item>
+      <title>İsrail hava saldırısı Hamas komutanını öldürdü</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-4178c63b</link>
+      <guid isPermaLink="false">20260929-4178c63b</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 06:54:25 +0000</pubDate>
+      <description><![CDATA[<p>İsrail, Gazze Şeridi'nin kuzeyindeki Hamas üst düzey komutanı İzzeddin el-Bey'i bir hava saldırısıyla öldürdüğünü duyurdu. Saldırı, Gazze Şehri'nin Nasr mahallesinde gerçekleşti.</p><ul><li>İsrail Başbakanı Binyamin Netanyahu ve Savunma Bakanı Israel Katz, Beyk'in İsrail ordusu tarafından hedef alındığını açıkladı.</li><li>Sağlık görevlileri ve Hamas kaynakları, Beyk'in şafak vakti Gazze Şehri'nin Nasr mahallesindeki bir apartmanda öldüğünü doğruladı.</li><li>Al-Shifa Hastanesi, saldırıdan sonra başka bir kişinin yaralanarak hayatını kaybettiğini bildirdi.</li><li>İsrail ordusu bu ay en az 20 Hamas üyesinin öldürüldüğünü iddia ediyor.</li></ul><p><b>Bu ay öldürülen Hamas üyesi sayısı (İsrail iddia):</b> 20</p><p><i>Neden önemli:</i> Hamas, İsrail'in ABD destekli ateşkes anlaşmasını baltaladığını iddia ediyor.</p><p>Kaynaklar: <a href="https://www.haberturk.com/dunya/israil-hamas-in-ust-duzey-komutani-izzeddin-el-bey-i-oldurdu-3915807">Habertürk</a>, <a href="https://www.aljazeera.com/news/2026/9/29/israeli-forces-kill-hamas-commander-izz-al-din-al-beik-in-gaza-attack?traffic_source=rss">Al Jazeera</a>, <a href="https://www.scmp.com/news/world/middle-east/article/3369244/israels-gaza-air-strike-kills-hamas-commander-behind-october-7-2023-attack">South China Morning Post</a></p>]]></description>
+    </item>
+    <item>
+      <title>Rusya, Kaliningrad'a yönelik saldırılara nükleer karşılık vereceğini açıkladı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-3357322d</link>
+      <guid isPermaLink="false">20260929-3357322d</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 12:11:00 +0000</pubDate>
+      <description><![CDATA[<p>Rusya'nın Londra Büyükelçiliği, sosyal medya üzerinden yaptığı açıklamada, Kaliningrad'a yönelik herhangi bir askeri eyleme nükleer silahlar dahil tüm araçlarla karşılık verileceği uyarısında bulundu.</p><ul><li>Rusya, Kaliningrad'a yönelik abluka veya saldırı girişimlerine nükleer silahlarla yanıt verebileceğini belirtti.</li><li>Uyarı, Sky News'in The Wargame adlı dizisinde Rusya'nın UK'ye saldırması senaryosunun ele alınmasının ardından geldi.</li><li>Rusya, NATO ve Avrupa ile çatışma arayışında olmadığını ancak bir çatışma başlatılırsa karşılık verileceğini ifade etti.</li><li>Polonya Silahlı Kuvvetleri, Rusya Silahlı Kuvvetlerine ait Mi-8 tipi helikopterin hava sahasını 42 saniye ihlal ettiğini bildirdi.</li></ul><p><b>Helikopter ihlali süresi:</b> 42 saniye</p><p><i>Neden önemli:</i> Kaliningrad, Polonya ve Litvanya arasındaki Rus eksklavı olması nedeniyle jeostratejik bir nokta olarak gündeme geldi.</p><p>Kaynaklar: <a href="https://www.dailymail.com/news/article-16168985/Russia-UK-nuclear-weapons-Wargame.html?ns_mchannel=rss&amp;ns_campaign=1490">Daily Mail</a>, <a href="https://www.hurriyet.com.tr/dunya/rusyadan-nukleer-silah-kullanma-tehdidi-43323672">Hürriyet</a>, <a href="https://www.ntv.com.tr/dunya/rusyadan-natoya-nukleer-silahla-karsilik-tehdidi-1744072">NTV</a></p>]]></description>
+    </item>
+    <item>
+      <title>Hurrikan Polo Meksika kıyılarına yaklaşıyor: Sel ve fırtına uyarısı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260927-9d2bb1c3</link>
+      <guid isPermaLink="false">20260927-9d2bb1c3</guid>
+      <category>Dünya</category>
+      <pubDate>Sun, 27 Sep 2026 18:47:02 +0000</pubDate>
+      <description><![CDATA[<p>Baja California Sur'a yaklaşan Category 3 Hurrikan Polo, Pazartesi veya Salı günü karaya vurması bekleniyor. Ulusal Hurrikan Merkezi (NHC), şiddetli yağışın hayatı tehdit eden sel ve heyelan riskine yol açabileceği uyarısında bulundu.</p><ul><li>Hurrikan Polo'nun en son sürdürülen maksimum rüzgar hızı 125 mph olarak kaydedildi.</li><li>Fırtınanın Pazartesi günü Baja California Sur'a, Salı günü ise kuzeybatı ana karasına vurması öngörülüyor.</li><li>Baja California Sur bölgesinde okullar önleyici tedbir olarak kapandı.</li><li>Meksika'nın resmi acil durum yönetimi sistemi Civil Protection, yüksek riskli kıyı bölgelerinden tahliye çağrısı yaptı.</li></ul><p><b>Maksimum sürdürülen rüzgar hızı:</b> 125 mph · <b>Tahmini yağış miktarı (Baja California Sur):</b> 4 ila 10 inç</p><p><i>Neden önemli:</i> Fırtınanın karaya vurmasıyla hayatı tehdit eden sel ve heyelan riski bulunuyor.</p><p>Kaynaklar: <a href="https://www.cbsnews.com/news/hurricane-polo-category-5-mexico-life-threatening-flooding/">CBS News</a>, <a href="https://www.bbc.co.uk/news/articles/cw8d3z5y7958o">BBC</a>, <a href="https://www.scmp.com/news/world/americas/article/3369107/mexico-could-see-life-threatening-floods-due-hurricane-polo">South China Morning Post</a>, <a href="https://nypost.com/2026/09/29/us-news/hurricane-polo-brings-heavy-rains-flooding-to-mexicos-pacific-coast/">New York Post</a></p>]]></description>
+    </item>
+    <item>
+      <title>Los Angeles üzerinde gizemli bir küre görüldü UFO tartışmaları yeniden gündemde</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-62af7109</link>
+      <guid isPermaLink="false">20260929-62af7109</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 15:27:53 +0000</pubDate>
+      <description><![CDATA[<p>Canlı bir televizyon yayını sırasında Kaliforniya otoyolu üzerinde gizemli bir nesne gözlemlendi.</p><p>Kaynaklar: <a href="https://www.dailymail.com/sciencetech/article-16154771/mysterious-orb-ufo-los-angeles.html?ns_mchannel=rss&amp;ns_campaign=1490">Daily Mail</a></p>]]></description>
+    </item>
+    <item>
+      <title>ABD'den Kanada'ya ithalat yasağı yürürlüğe girdi, ticaret savaşı tırmanıyor</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-bc0697cf</link>
+      <guid isPermaLink="false">20260929-bc0697cf</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 04:01:12 +0000</pubDate>
+      <description><![CDATA[<p>ABD, Kanada'nın ABD mallarına uyguladığı gümrük vergilerine karşılık alkol, süt ürünleri ve motosiklet gibi bazı Kanada menşeli ürünlere ithalat yasağı getirdi.</p><ul><li>Yasak, yaklaşık 1 milyar dolar değerindeki Kanada menşeli ürünleri kapsıyor.</li><li>ABD Ticaret Temsilcisi Jamieson Greer, bu adımların Kanada'nın Amerikan ihracatına yönelik ayrımcı muamelelerine yanıt olduğunu belirtti.</li><li>Kanada Başbakanı Mark Carney, ithalat yasaklarının Kanada ekonomisi üzerindeki etkisinin modeste olacağını ifade etti.</li><li>ABD ve Kanada arasındaki yıllık iki yönlü ticaret hacmi 880 milyar dolar olarak belirtiliyor.</li></ul><p><b>Yasak kapsamındaki değer:</b> $1 milyar · <b>İki yönlü yıllık ticaret hacmi:</b> $880 milyar</p><p><i>Neden önemli:</i> Uzmanlar, bu yasağın teknik içerikten ziyade ABD yönetiminin prestij kaygısıyla atıldığı görüşünde.</p><p>Kaynaklar: <a href="https://www.nytimes.com/2026/09/29/business/economy/canada-tariffs-ban.html">New York Times</a>, <a href="https://www.bbc.co.uk/news/articles/cm1j43y146d2o">BBC</a>, <a href="https://www.trthaber.com/haber/dunya/abdnin-kanada-urunlerine-ithalat-yasagi-yururluge-girdi-958471.html">TRT Haber</a>, <a href="https://www.cbsnews.com/news/us-ban-canadian-imports-almost-1-billion-dollars-takes-effect/">CBS News</a>, <a href="https://www.cnbce.com/haberler/abd-kanada-ticaret-geriliminde-yeni-perde-1-milyar-dolarlik-ithalat-yasagi-basladi-h38269">CNBC-e</a>, <a href="https://www.theguardian.com/us-news/2026/sep/29/ban-canada-imports">The Guardian</a>, <a href="https://nypost.com/2026/09/29/business/us-ban-on-canadian-imports-takes-effect-heres-what-can-no-longer-cross-the-border/">New York Post</a></p>]]></description>
+    </item>
+    <item>
+      <title>Trump yönetimi mahkemelerden trans mahkumiyetlerine hormon verilmemesini istiyor</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260928-70100b5a</link>
+      <guid isPermaLink="false">20260928-70100b5a</guid>
+      <category>Dünya</category>
+      <pubDate>Mon, 28 Sep 2026 19:04:31 +0000</pubDate>
+      <description><![CDATA[<p>Hapishaneler bürosu politikası, trans mahkumların bazı cinsiyet geçiş tıbbi tedavileri yerine psikoterapi ve antidepresanlara erişimini sağlayacak.</p><p>Kaynaklar: <a href="https://www.nytimes.com/2026/09/28/us/politics/trump-supreme-transgender-inmates.html">New York Times</a>, <a href="https://www.theguardian.com/us-news/2026/sep/29/gender-affirming-transgender-prisoners-trump-supreme-court">The Guardian</a></p>]]></description>
+    </item>
+    <item>
+      <title>İsrail, Hamas Liderlerini Tehdit Etti</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-c48b4ae2</link>
+      <guid isPermaLink="false">20260929-c48b4ae2</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 15:01:00 +0000</pubDate>
+      <description><![CDATA[<p>İsrail Savunma Bakanı Israel Katz, yurt dışındaki Hamas liderlerinin hedef tahtasında olduğunu belirtti.</p><p>Kaynaklar: <a href="https://haberglobal.com/dunya/israilden-hamas-liderlerine-tehdit-huzur-icinde-olmelerine-izin-verilmeyecek-546420">Haber Global</a>, <a href="https://www.cnnturk.com/dunya/israilden-yurt-disinda-operasyon-sinyali-hamas-liderlerine-acik-tehdit-3472964">CNN Türk</a></p>]]></description>
+    </item>
+    <item>
+      <title>Fransa Başbakanı okul protestolarını uyardı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260928-ca2ee289</link>
+      <guid isPermaLink="false">20260928-ca2ee289</guid>
+      <category>Dünya</category>
+      <pubDate>Mon, 28 Sep 2026 21:46:53 +0000</pubDate>
+      <description><![CDATA[<p>Fransa Başbakanı, sınıfların kalabalığı gibi nedenlerle yapılan öğrenci protestolarındaki şiddet raporlarını kınadı.</p><p>Kaynaklar: <a href="https://www.bbc.co.uk/news/articles/cmqxvnn49rg2o">BBC</a>, <a href="https://www.theguardian.com/world/2026/sep/29/french-students-police-clash-school-blockades-violent">The Guardian</a></p>]]></description>
+    </item>
+    <item>
+      <title>ABD'de güneş panelleri geçim kaynağı oldu</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-b3bd79cd</link>
+      <guid isPermaLink="false">20260929-b3bd79cd</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 15:17:51 +0000</pubDate>
+      <description><![CDATA[<p>ABD'nin Tennessee eyaletinde yaşayan Cody Moore'un hayatı, güneş enerjisi santrallerinde koyun otlatmaya başladı.</p><p>Kaynaklar: <a href="https://www.sozcu.com.tr/gunes-panelleri-gecim-kapisi-oldu-koyunlar-karnini-sahibi-cebini-dolduruyor-p364599">Sözcü</a></p>]]></description>
+    </item>
+    <item>
+      <title>Eski Demokrat Sosyalistler üyesi siyasi partiler hakkında uyarıda bulundu</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-8057b5d6</link>
+      <guid isPermaLink="false">20260929-8057b5d6</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 15:17:31 +0000</pubDate>
+      <description><![CDATA[<p>Democratic Socialists of America'nın eski bir üyesi, ara seçimlerde sağ kanadın yükselişi konusunda siyaset üzerindeki etkilerine dair uyarıda bulundu.</p><p>Kaynaklar: <a href="https://nypost.com/2026/09/29/us-news/former-dsa-member-gives-bleak-warning-about-far-left-ahead-of-midterms-off-the-deep-end/">New York Post</a></p>]]></description>
+    </item>
+    <item>
+      <title>Fransız sağcı Bardella, antisemitik yorum iddialarını reddetti</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260928-78ae31d3</link>
+      <guid isPermaLink="false">20260928-78ae31d3</guid>
+      <category>Dünya</category>
+      <pubDate>Mon, 28 Sep 2026 19:41:18 +0000</pubDate>
+      <description><![CDATA[<p>Fransız aşırı sağcı National Rally lideri Jordan Bardella, kendisine yöneltilen antisemitik yorum iddialarını yalanladı.</p><p>Kaynaklar: <a href="https://www.scmp.com/news/world/europe/article/3369113/french-far-rights-bardella-denies-alleged-antisemitic-comments-files-defamation-lawsuit">South China Morning Post</a>, <a href="https://www.nytimes.com/2026/09/29/world/europe/bardella-antisemitism-denial-france.html">New York Times</a>, <a href="https://www.bbc.co.uk/news/articles/cmn45k85gj34o">BBC</a>, <a href="https://www.theguardian.com/world/2026/sep/29/jordan-bardella-national-rally-antisemitism-claims-france">The Guardian</a></p>]]></description>
+    </item>
+    <item>
+      <title>Suçlu büyükanne, NYT yöneticisini hedef aldı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-c56e7106</link>
+      <guid isPermaLink="false">20260929-c56e7106</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 15:15:39 +0000</pubDate>
+      <description><![CDATA[<p>İddia edilen katil büyükanne, öldürülen New York Times teknoloji yöneticisini oğlunun kız kardeşinin elbiselerini giymesine sebep olmakla suçladı.</p><p>Kaynaklar: <a href="https://nypost.com/2026/09/29/us-news/nyt-exec-attacked-by-elderly-in-law-after-son-wore-dress-before-killing/">New York Post</a></p>]]></description>
+    </item>
+    <item>
+      <title>FIFA'nın PR kampanyası için yalan söylediği ortaya çıktı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-d4b4a490</link>
+      <guid isPermaLink="false">20260929-d4b4a490</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 15:14:24 +0000</pubDate>
+      <description><![CDATA[<p>FIFA, Gianni Infantino'nun 2027 politik hayatta kalması için fon sağlamadığını söylerken, sızdırılan bir teklif bu kampanyayı yürüttüklerini gösterdi.</p><p>Kaynaklar: <a href="https://nypost.com/2026/09/29/business/fifa-lied-about-paying-for-pr-to-save-gianni-infantino-days-after-hired-gun-agency-launched-global-blitz/">New York Post</a></p>]]></description>
+    </item>
+    <item>
+      <title>Putin Rus ordusuna 15 bin 500 asker ekledi</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260928-403859e9</link>
+      <guid isPermaLink="false">20260928-403859e9</guid>
+      <category>Dünya</category>
+      <pubDate>Mon, 28 Sep 2026 19:08:28 +0000</pubDate>
+      <description><![CDATA[<p>Rusya Devlet Başkanı Vladimir Putin, Ukrayna savaşı bağlamında Rus ordusundaki personel sayısını artıran bir kararname imzaladı. Bu emir, bu yıl verdiği dördüncü benzer talimat oldu.</p><ul><li>Putin'in kararnamesiyle Rus Silahlı Kuvvetleri personel sayısı 2 milyon 441 bin 630 olarak belirlendi.</li><li>Asker sayısındaki artış 15 bin 500 kişi olarak gerçekleşti.</li><li>Bu karar, imzalandığı andan itibaren yürürlüğe girdi.</li><li>Putin, geçen yılın sonunda Ukrayna'daki savaşta 700 binden fazla askerin görev yaptığını açıklamıştı.</li></ul><p><b>Yeni personel sayısı:</b> 2 milyon 441 bin 630 · <b>Asker artışı:</b> 15 bin 500 · <b>Önceki personel sayısı (Temmuz 2026):</b> 2 milyon 426 bin 130</p><p><i>Neden önemli:</i> Rusya ve Ukrayna, dört buçuk yılı aşkın süredir devam eden savaşta artan kayıplarla mücadele ediyor.</p><p>Kaynaklar: <a href="https://www.scmp.com/news/world/russia-central-asia/article/3369112/putin-signs-decree-adding-15500-troops-russian-army">South China Morning Post</a>, <a href="https://www.haberturk.com/dunya/rus-ordusunda-personel-sayisi-artti-3915759">Habertürk</a>, <a href="https://www.cumhuriyet.com.tr/dunya/putin-den-orduya-takviye-karari-asker-sayisi-1-milyon-550-bini-asti-2541958">Cumhuriyet</a>, <a href="https://www.trthaber.com/haber/dunya/rusya-ukrayna-savasinda-son-durum-putin-orduyu-buyutme-karari-aldi-958467.html">TRT Haber</a>, <a href="https://www.ntv.com.tr/dunya/rusya-devlet-baskani-putin-ordudaki-personel-sayisini-2-milyon-441-bin-630a-cikardi-1743943">NTV</a>, <a href="https://haberglobal.com/dunya/putin-kararnameyi-imzaladi-rus-ordusu-buyuyor-546292">Haber Global</a>, <a href="https://www.aljazeera.com/news/2026/9/29/why-has-putin-added-15000-new-soldiers-to-russias-army?traffic_source=rss">Al Jazeera</a></p>]]></description>
+    </item>
+    <item>
+      <title>Bangkok afet bölgesi ilan edildi; şiddetli yağışlar kentte sel felaketine neden oldu</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260926-21b4b0a5</link>
+      <guid isPermaLink="false">20260926-21b4b0a5</guid>
+      <category>Dünya</category>
+      <pubDate>Sat, 26 Sep 2026 15:34:18 +0000</pubDate>
+      <description><![CDATA[<p>Tayland'ın başkenti Bangkok, iki günü aşkın süren şiddetli yağışların ardından sel felaketi yaşadı ve kent genelinde afet bölgesi ilan edildi.</p><ul><li>Bangkok Valisi Chadchart Sitthipunt, güvenlik risklerinin en üst seviyede olduğunu belirterek vatandaşları uyardı.</li><li>Yağışlar nedeniyle kentin 50 ilçesi afet bölgesi ilan edildi.</li><li>Yetkililer, kanal ağına yakın bölgelerde yaşayanlara eşyalarını üst katlara taşımaları tavsiye etti.</li><li>Şehir genelinde geçici sığınaklar kuruldu ve bazı okullarda eğitime ara verildi.</li></ul><p><b>Yağış miktarı:</b> 300 milimetre · <b>Etkilenen haneler:</b> 52 bin · <b>Tahliye edilen kişi sayısı:</b> Yaklaşık 5 bin</p><p><i>Neden önemli:</i> Bangkok'un drenaj sistemi, aşırı hava koşulları nedeniyle kapasitesinin üzerine çıktı.</p><p>Kaynaklar: <a href="https://onedio.com/haber/turistlerin-gozde-sehri-afet-bolgesi-ilan-edildi-evler-su-altinda-kaldi-1384092">Onedio</a>, <a href="https://www.bbc.co.uk/news/articles/ck1wxx8n2x3zo">BBC</a>, <a href="https://www.ntv.com.tr/dunya/galeri-bangkokta-seller-nedeniyle-binlerce-kisi-tahliye-edildi-1743753">NTV</a>, <a href="https://www.hurriyet.com.tr/dunya/taylandda-sel-felaketi-8-olu-43321735">Hürriyet</a>, <a href="https://haberglobal.com/gundem/taylandda-sel-cok-sayida-olu-var-546141">Haber Global</a>, <a href="https://www.trthaber.com/haber/dunya/taylandin-baskenti-bangkokta-sel-700-bin-kisiyi-etkiledi-958382.html">TRT Haber</a>, <a href="https://www.haberturk.com/dunya/foto/tayland-in-baskenti-bangkok-ta-sel-700-bin-kisiyi-etkiledi-3915558">Habertürk</a>, <a href="https://www.theguardian.com/environment/2026/sep/28/thai-rain-shift-north-westwards-bangkok-declared-disaster-zone">The Guardian</a>, <a href="https://www.sozcu.com.tr/tayland-in-baskenti-bangkok-ta-sel-700-bin-kisiyi-etkiledi-p364285">Sözcü</a>, <a href="https://www.cnnturk.com/dunya/taylandin-baskenti-bangkokta-sel-700-bin-kisiyi-etkiledi-3472547">CNN Türk</a>, <a href="https://nypost.com/2026/09/29/world-news/at-least-23-dead-in-thailand-floods-bangkok-airport-in-chaos/">New York Post</a></p>]]></description>
+    </item>
+    <item>
+      <title>Gazze'deki yıkım uydu görüntüleriyle ifşa oldu, askeri alanlar netleşti</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260927-7784b67d</link>
+      <guid isPermaLink="false">20260927-7784b67d</guid>
+      <category>Dünya</category>
+      <pubDate>Sun, 27 Sep 2026 05:04:54 +0000</pubDate>
+      <description><![CDATA[<p>İsrail'in resmi haritalama servisi GovMap'te kısa süreliğine sansürsüz yayımlanan uydu görüntülerinde Gazze Şeridi'ndeki ağır yıkım ve askeri noktalar gözler önüne serildi. Google Haritalar'ın güncel görüntüleri de bölgedeki tahribatı gösteriyor.</p><ul><li>GovMap, daha önce Gazze Şeridi'nin tamamını, İsrail içindeki askeri üsleri ve Batı Şeria'daki hassas bölgeleri bulanıklaştırıyordu.</li><li>Sansürsüz görüntülerde Gazze'nin kuzeyindeki Beyt Hanun ve Beyt Lahia bölgelerinde büyük çaplı yapı kaybı tespit edildi.</li><li>Görüntülerde İsrail ordusunun Gazze'de oluşturduğu askeri tampon bölge içinde en az 11 askeri sahan bulunduğu belirtildi.</li><li>Google Haritalar'ın güncel uydu görüntüleri, Gazze'deki yapıların yüzde 90'a yakını yıkıldığını gösteriyor.</li></ul><p><b>Yıkılan yapı oranı:</b> %90 · <b>Ölen Filistinli sayısı:</b> 74 binden fazla · <b>Patlayıcı miktarı (Filistinli kaynaklara göre):</b> 223 bin ton</p><p><i>Neden önemli:</i> Gazze'deki yıkımın boyutu, uluslararası kuruluşların değerlendirmeleriyle örtüşüyor ve bölge sakinleri yerlerinden edildiği için çadırlarda yaşam mücadelesi veriyor.</p><p>Kaynaklar: <a href="https://www.sozcu.com.tr/israil-yanlislikla-yayinlayip-hemen-sildi-p363828">Sözcü</a>, <a href="http://12punto.com.tr/dunya/sansursuz-uydu-goruntuleri-ortaya-cikti-israilin-harita-servisinde-gazzedeki-yikim-ifsa-oldu-apar-topar-sildiler-153564">12punto</a>, <a href="https://www.trthaber.com/haber/dunya/israilin-gazzedeki-yikimi-google-haritalarin-uydu-goruntulerine-yansidi-958391.html">TRT Haber</a>, <a href="https://www.haberturk.com/dunya/gazze-deki-yikim-uydu-goruntulerine-yansidi-3915619">Habertürk</a>, <a href="https://www.ntv.com.tr/dunya/galeri-uzaydan-gorulen-soykirim-google-gazzenin-yeni-uydu-goruntulerini-yayinladi-1743937">NTV</a>, <a href="https://www.hurriyet.com.tr/dunya/google-haritalarin-uydu-goruntuleri-gazzedeki-yikimi-gozler-onune-serdi-43322983">Hürriyet</a>, <a href="https://www.aljazeera.com/news/2026/9/29/satellite-images-show-gaza-in-ruins-three-years-into-israels-genocidal-war?traffic_source=rss">Al Jazeera</a>, <a href="https://www.cnnturk.com/video/dunya/gazzede-yikim-uzaydan-goruntulendi-3472922">CNN Türk</a></p>]]></description>
+    </item>
+    <item>
+      <title>Baltık Denizi Sularında İlaç Kalıntıları Bulundu</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-e4847f5a</link>
+      <guid isPermaLink="false">20260929-e4847f5a</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 14:52:45 +0000</pubDate>
+      <description><![CDATA[<p>Baltık Denizi'nde yapılan incelemeler, deniz sularında günlük hayatta kullanılan bazı ilaç kalıntıları tespit edildiğini gösterdi.</p><p>Kaynaklar: <a href="https://www.sozcu.com.tr/deniz-suyu-antibiyotik-ve-agri-kesiciye-bulanmis-p364593">Sözcü</a></p>]]></description>
+    </item>
+    <item>
+      <title>Japonya Suriye Yaptırımlarını Kısmen Kaldırdı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-69b45bc5</link>
+      <guid isPermaLink="false">20260929-69b45bc5</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 14:51:00 +0000</pubDate>
+      <description><![CDATA[<p>Japonya yönetimi, mevcut ilişkiler ışığında Suriye'ye yönelik uyguladığı yaptırımları kısmen kaldırdığını duyurdu.</p><p>Kaynaklar: <a href="https://www.trthaber.com/haber/dunya/japonya-suriyeye-yonelik-yaptirimlari-kismen-kaldirdi-958550.html">TRT Haber</a></p>]]></description>
+    </item>
+    <item>
+      <title>Wall Street Journal muhabiri Rusya'da tutuklu kaldığı süreci anlattı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-db0b3b5b</link>
+      <guid isPermaLink="false">20260929-db0b3b5b</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 04:01:06 +0000</pubDate>
+      <description><![CDATA[<p>Rusya'da 16 ay hapsedilen Wall Street Journal muhabiri, yaşadığı zorlu deneyimi anlattı.</p><p>Kaynaklar: <a href="https://www.nytimes.com/2026/09/29/us/politics/evan-gershkovich-interview.html">New York Times</a>, <a href="https://www.bbc.co.uk/news/videos/c862ep9w5g2vo">BBC</a></p>]]></description>
+    </item>
+    <item>
+      <title>Cornell'de iddia edilen tecavüz soruşturması yeniden açıldı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260928-bf43fb3f</link>
+      <guid isPermaLink="false">20260928-bf43fb3f</guid>
+      <category>Dünya</category>
+      <pubDate>Mon, 28 Sep 2026 01:23:25 +0000</pubDate>
+      <description><![CDATA[<p>New York'taki Tompkins County Savcısı Matthew Van Houten, Cornell Üniversitesi'nde bir öğrenciye yönelik iddia edilen saldırılarla ilgili soruşturmayı yeniden açtı.</p><ul><li>Mağdur, 16 Eylül'de üniversiteye karşı medeni dava açarak ilaç verilerek saldırıya uğradığını ve tecavüze maruz kaldığını iddia etti.</li><li>Olayın 19 Ekim 2024 tarihinde Cornell'ün Chi Phi frat evinde gerçekleştiği iddia edildi.</li><li>Mağdur, olayın ardından 8 Kasım 2024'te üniversite polisine bildirimde bulundu.</li><li>Savcı Van Houten, ilk ifadesindeki mağdurun, ilaçla zorlanmadığını ve cinsel eylemlere katılımının gönüllü olduğunu belirtti.</li></ul><p><b>Olay tarihi:</b> 19 Ekim 2024 · <b>Mağdur yaşı (olay anında):</b> 20 · <b>İddia edilen saldırgan sayısı:</b> 7</p><p><i>Neden önemli:</i> Savcı Van Houten, medeni dava dilekçesindeki iddiaların, mağdurun 2024'taki ilk ifadesinden dramatik şekilde farklı olduğunu belirtti.</p><p>Kaynaklar: <a href="https://www.theguardian.com/us-news/2026/sep/28/cornell-fraternity-investigation-alleged-gang-rape">The Guardian</a>, <a href="https://www.nytimes.com/2026/09/28/nyregion/cornell-chi-phi-fraternity-assault.html">New York Times</a>, <a href="https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro">BBC</a>, <a href="https://www.scmp.com/news/world/united-states-canada/article/3369135/us-prosecutors-reopen-case-alleged-frat-house-gang-rape-cornell-university">South China Morning Post</a>, <a href="https://www.aljazeera.com/features/2026/9/29/why-has-a-cornell-rape-investigation-been-reopened?traffic_source=rss">Al Jazeera</a>, <a href="https://nypost.com/2026/09/29/us-news/sickening-new-texts-in-cornell-7-group-chat-revealed-shop-still-open/">New York Post</a></p>]]></description>
+    </item>
+    <item>
+      <title>Hollandaca'da asistansla ölüm programında bir bebek yaşamını yitirdi</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260928-0e3b1c17</link>
+      <guid isPermaLink="false">20260928-0e3b1c17</guid>
+      <category>Dünya</category>
+      <pubDate>Mon, 28 Sep 2026 11:54:08 +0000</pubDate>
+      <description><![CDATA[<p>Hollandaca hükümet raporu, ülkedeki asistansla ölüm yasaları kapsamında ilk kez bir bebeğin yaşamının sonlandırıldığını açıkladı.</p><ul><li>Bebek, 26 haftalık doğmuş ve sepsis ile mücadele etmişti.</li><li>Beş aylıkken ciddi beyin hasarı teşhisi konuldu.</li><li>Sekiz aylıkken çok şiddetli epilepsi sendromu teşhisi alındı.</li><li>Hollandaca hükümeti 2024'te 1 ila 12 yaş arası ağır hastalar için yasayı meşrulaştırdı.</li></ul><p><b>Yaş:</b> 1 yıl · <b>Doğum haftası:</b> 26 hafta</p><p><i>Neden önemli:</i> Doktorlar, çocuğun yaşam kalitesinin düzelme ihtimali olmadığına dair gerçekçi bir beklenti olduğunu belirtti.</p><p>Kaynaklar: <a href="https://nypost.com/2026/09/28/world-news/child-euthanized-in-netherlands-assisted-dying-program-was-just-a-baby/">New York Post</a>, <a href="https://www.cbsnews.com/news/child-euthanasia-netherlands-first-case-new-rules/">CBS News</a></p>]]></description>
+    </item>
+    <item>
+      <title>Mamdani'nin antisemitizm planı İsrail'i tanımıyor</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-226225a9</link>
+      <guid isPermaLink="false">20260929-226225a9</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 14:32:35 +0000</pubDate>
+      <description><![CDATA[<p>Mamdani'nin antisemitizmle mücadele planı, anti-Yahudi nefreti tanımlamayı reddediyor ve İsrail'i Yahudi devleti olarak kabul etmiyor.</p><p>Kaynaklar: <a href="https://nypost.com/2026/09/29/us-news/zohran-mamdanis-plan-to-fight-antisemitism-ignores-zionism-refuses-to-define-anti-jewish-hate/">New York Post</a></p>]]></description>
+    </item>
+    <item>
+      <title>California'da Ramazan ve Kurban bayramları resmi tatil oldu</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-b888a882</link>
+      <guid isPermaLink="false">20260929-b888a882</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 14:30:00 +0000</pubDate>
+      <description><![CDATA[<p>ABD'nin California eyaletinde Ramazan ve Kurban bayramları eyalet çapında resmi tatil olarak tanındı.</p><p>Kaynaklar: <a href="https://www.trthaber.com/haber/dunya/californiada-ramazan-ve-kurban-bayramlari-resmi-tatil-olarak-tanindi-958548.html">TRT Haber</a></p>]]></description>
+    </item>
+    <item>
+      <title>İngiltere'de ABD üssü yakınlarında terör şüphesiyle 5 kişi gözaltında</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260927-5d4f9097</link>
+      <guid isPermaLink="false">20260927-5d4f9097</guid>
+      <category>Dünya</category>
+      <pubDate>Sun, 27 Sep 2026 14:00:18 +0000</pubDate>
+      <description><![CDATA[<p>Birleşik Krallık polisi, ABD'nin İran savaşı kapsamında kullandığı RAF Fairford hava üssü yakınlarında terör eylemi hazırlığı şüphesiyle beş kişiyi gözaltına aldı.</p><ul><li>Operasyon, Pazar günü gece saatlerinde üç şüpheli aracın üsse doğru ilerlediği ihbarı üzerine başladı.</li><li>Şüpheliler önce Patlayıcı Maddeler Yasası kapsamında gözaltına alındı, ardından terör eylemi hazırlığı şüphesiyle tutuklandı.</li><li>Olay nedeniyle Cotswolds'daki Whelford köyünde en az 85 hanenin tahliyesi yapıldı.</li><li>ABD Başkanı Donald Trump, şüphelilerin uzun süredir takip edildiğini ve ciddi zararlar verme niyetinde olduklarını belirtti.</li></ul><p><b>Gözaltına alınan kişi sayısı:</b> 5 · <b>Tahliye edilen haneler:</b> 85</p><p><i>Neden önemli:</i> Şüphelilerin eylemi, ABD'nin İran'a yönelik saldırılar için kullandığı RAF Fairford üssü yakınında gerçekleşti.</p><p>Kaynaklar: <a href="https://www.trthaber.com/haber/dunya/ingilterede-teror-saldirisi-girisimi-son-durum-ne-958352.html">TRT Haber</a>, <a href="https://www.sozcu.com.tr/ingiltere-deki-asker-uste-terorist-alarmi-5-kisi-gozaltina-alindi-p364081">Sözcü</a>, <a href="https://www.scmp.com/news/world/europe/article/3369082/uk-investigates-if-arrests-near-us-run-base-prevented-iran-linked-attack">South China Morning Post</a>, <a href="https://nypost.com/2026/09/28/opinion/how-did-britain-get-so-obscenely-terror-friendly/">New York Post</a>, <a href="https://www.theguardian.com/uk-news/live/2026/sep/29/raf-fairford-counter-terror-suspected-plot-iran-donald-trump-marco-rubio-latest-news-updates">The Guardian</a>, <a href="https://www.nytimes.com/2026/09/29/world/europe/uk-raf-fairford-air-base-incident-rubio-us.html">New York Times</a>, <a href="https://www.cbsnews.com/news/trump-uk-raf-fairford-air-base-arrests-release-bail-rubio/">CBS News</a>, <a href="https://www.aljazeera.com/features/2026/9/29/bail-for-raf-base-suspects-suggests-no-evidence-of-terror-say-analysts?traffic_source=rss">Al Jazeera</a></p>]]></description>
+    </item>
+    <item>
+      <title>Fransa'da maaş zammı grevi ulaşımda aksamaya neden olacak</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-c6261d7f</link>
+      <guid isPermaLink="false">20260929-c6261d7f</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 10:25:32 +0000</pubDate>
+      <description><![CDATA[<p>Fransa'da memur ve çeşitli sektör çalışanlarının maaş artışı talebiyle gerçekleştirdiği grev ulaşımda aksamalara yol açacak.</p><p>Kaynaklar: <a href="https://www.cnbce.com/dunya/fransada-maas-zammi-grevi-ulasim-ve-ucuslarda-aksama-bekleniyor-h38295">CNBC-e</a>, <a href="https://www.hurriyet.com.tr/dunya/fransada-sokaklar-karisti-halk-ayaklandi-grev-basladi-43323676">Hürriyet</a>, <a href="https://haberglobal.com/dunya/fransada-sokaklar-karisti-hukumete-48-saat-sure-546417">Haber Global</a></p>]]></description>
+    </item>
+    <item>
+      <title>Suriye Kamışlı-Nusaybin Sınır Kapısı İçin Çalışmalara Başladı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-78fe65f3</link>
+      <guid isPermaLink="false">20260929-78fe65f3</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 11:25:09 +0000</pubDate>
+      <description><![CDATA[<p>Suriye yönetimi, 2012'de kapanan ve Türkiye ile Suriye arasında yedinci sınır kapısı olması planlanan Kamışlı-Nusaybin Sınır Kapısı'nın inşası için çalışmalara başladığını duyurdu.</p><p>Kaynaklar: <a href="https://www.ntv.com.tr/dunya/suriye-kamisli-nusaybin-sinir-kapisinin-yeniden-acilmasi-icin-calismalara-basladi-1744049">NTV</a>, <a href="https://www.hurriyet.com.tr/dunya/suriyeden-turkiye-sinirinda-yeni-adim-calismalar-basladi-43323548">Hürriyet</a>, <a href="https://www.cnnturk.com/dunya/suriye-kamisli-nusaybin-sinir-kapisi-icin-calismalara-basladi-3472956">CNN Türk</a></p>]]></description>
+    </item>
+    <item>
+      <title>Riley Gaines Trans Sporcular Karşına Hukuki Mücadelede Zorlandı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-0aa5e43c</link>
+      <guid isPermaLink="false">20260929-0aa5e43c</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 14:21:00 +0000</pubDate>
+      <description><![CDATA[<p>Riley Gaines, Biden'ın atadığı bir yargıç karşısında trans sporcularla ilgili yürüttüğü hukuki mücadelede zorluk yaşadı.</p><p>Kaynaklar: <a href="https://www.dailymail.com/sport/othersports/article-16169789/riley-gaines-ncaa-transgender-lawsuit-dismissed.html?ns_mchannel=rss&amp;ns_campaign=1490">Daily Mail</a></p>]]></description>
+    </item>
+    <item>
+      <title>Estonya Rusya'yı Milrem Robotics sabotajından sorumlu tuttu</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-44f7b7b0</link>
+      <guid isPermaLink="false">20260929-44f7b7b0</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 09:36:14 +0000</pubDate>
+      <description><![CDATA[<p>Estonya Dışişleri Bakanı, Milrem Robotics tesisindeki kundaklamanın arkasında Rusya olduğunu iddia etti.</p><p>Kaynaklar: <a href="https://www.hurriyet.com.tr/dunya/estonyadan-rusyaya-sabotaj-suclamasi-43323387">Hürriyet</a>, <a href="https://www.scmp.com/news/world/europe/article/3369227/estonia-blames-russia-arson-attack-company-supplying-vehicles-ukraine">South China Morning Post</a>, <a href="https://www.bbc.co.uk/news/articles/c6m27l4er4jxo">BBC</a>, <a href="https://www.theguardian.com/world/2026/sep/29/estonia-blames-russia-arson-attack-drone-maker-ukraine">The Guardian</a></p>]]></description>
+    </item>
+    <item>
+      <title>İspanya'da konut krizi: 87 yaşındaki kadının tahliyesi protestoları başlattı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260926-bf366af5</link>
+      <guid isPermaLink="false">20260926-bf366af5</guid>
+      <category>Dünya</category>
+      <pubDate>Sat, 26 Sep 2026 19:36:50 +0000</pubDate>
+      <description><![CDATA[<p>İspanya'da 70 yıldır yaşadığı evden çıkarılan 87 yaşındaki Maricarmen Abascal olayı, Madrid'de binlerce kişinin soka çıkmasına neden oldu. Protestocular, kiracıların daha güçlü yasal koruma talep ediyor.</p><ul><li>Maricarmen Abascal, kira yüzde 275 artırılmış olması nedeniyle 23 Eylül'de mahkeme kararıyla evinden çıkarıldı.</li><li>Kiracı sendikalarının çağrısıyla Madrid'in Puerta del Sol Meydanı'nda yürüyüşler düzenlendi ve çadır kampı kuruldu.</li><li>Başbakan Pedro Sanchez, konut krizine yönelik yeni bir kararnameyi 29 Eylül Salı günü Bakanlar Kurulu toplantısında açıklayacağını belirtti.</li><li>Protestocular, kiracıların daha güçlü korunmasını ve tahliyelerin zorlaştırılmasını talep ediyor.</li></ul><p><b>Yaşanan olay:</b> 87 yaşındaki Maricarmen Abascal'ın tahliyesi · <b>Kiraya zam oranı:</b> %275 · <b>Tahliye tarihi:</b> 23 Eylül</p><p><i>Neden önemli:</i> İspanya'da kira fiyatlarının son 10 yılda yaklaşık iki katına çıkması ve konut açığı bulunması protestoların temel sebebi olarak belirtildi.</p><p>Kaynaklar: <a href="https://www.scmp.com/news/world/europe/article/3368920/thousands-march-spain-over-eviction-87-year-old-woman-maricarmen-abascal">South China Morning Post</a>, <a href="https://onedio.com/haber/ispanya-da-konut-krizi-buyuyor-eylemciler-madrid-in-sol-meydani-nda-cadir-kurdu-1384182">Onedio</a>, <a href="https://www.cnbce.com/dunya/konut-krizi-ispanyayi-sokaga-doktu-madridde-cadirli-protesto-h38134">CNBC-e</a>, <a href="https://www.cumhuriyet.com.tr/dunya/madrid-de-konut-krizi-sokaga-tasti-yuzlerce-kisi-puerta-del-sol-da-cadir-kurdu-2541774">Cumhuriyet</a>, <a href="https://www.sozcu.com.tr/madridde-konut-krizi-protestosu-yuzlerce-kisi-cadir-kurdu-p364252">Sözcü</a>, <a href="https://nypost.com/video/elderly-womans-eviction-sets-off-huge-public-outcry-in-madrid/">New York Post</a>, <a href="https://www.aljazeera.com/video/newsfeed/2026/9/28/hundreds-set-up-tent-encampments-in-madrid-over-housing-crisis?traffic_source=rss">Al Jazeera</a>, <a href="https://www.bbc.com/turkce/articles/cm7902z40n4jo">BBC Türkçe</a>, <a href="https://www.dailymail.com/news/article-16168523/Spanish-pensioner-87-allowed-return-home-evicted-riot-cops-investment-brothers-pushed-rent-275-sparking-nationwide-fury.html?ns_mchannel=rss&amp;ns_campaign=1490">Daily Mail</a>, <a href="https://www.ntv.com.tr/dunya/galeri-evden-atilmasi-ispanyayi-ayaga-kaldirmisti-87-yasindaki-kadindan-guzel-haber-var-1744028">NTV</a>, <a href="https://www.haberturk.com/ekonomi/ispanya-da-konut-krizine-karsi-eylemler-suruyor-3915883">Habertürk</a>, <a href="https://www.nytimes.com/2026/09/29/world/europe/spain-housing-eviction-maricarmen-abascal-madrid-protests.html">New York Times</a>, <a href="https://www.bbc.co.uk/news/articles/cwm2qmjgy93do">BBC</a>, <a href="https://www.theguardian.com/world/2026/sep/29/spanish-government-approves-measures-ease-housing-crisis-outcry-eviction">The Guardian</a></p>]]></description>
+    </item>
+    <item>
+      <title>İtalya'da antik medeniyet kalıntıları bulundu</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-5067655e</link>
+      <guid isPermaLink="false">20260929-5067655e</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 14:07:55 +0000</pubDate>
+      <description><![CDATA[<p>İtalya'nın Lazio bölgesindeki Mezzano Gölü su altı araştırmalarında Geç Tunç Çağı'na ait yapılar keşfedildi.</p><p>Kaynaklar: <a href="https://www.sozcu.com.tr/golun-dibinden-bir-tane-daha-cikti-binlerce-yildir-neden-orada-olduklari-cozulemiyor-p364580">Sözcü</a></p>]]></description>
+    </item>
+    <item>
+      <title>Çin'in ilerlemesi Almanya'nın raylı sistemini yavaşlattı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-3bc4bd5c</link>
+      <guid isPermaLink="false">20260929-3bc4bd5c</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 14:00:07 +0000</pubDate>
+      <description><![CDATA[<p>Yıllardır az yatırım alan Almanya'nın tren ağı, Çin'in hızına yetişmekte zorlanıyor.</p><p>Kaynaklar: <a href="https://www.scmp.com/economy/global-economy/article/3369202/how-years-thin-investment-have-stalled-germanys-rail-network-chinas-speeds-ahead">South China Morning Post</a></p>]]></description>
+    </item>
+    <item>
+      <title>Jack Smith'in Trump soruşturması eleştiriliyor</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-6c8cd130</link>
+      <guid isPermaLink="false">20260929-6c8cd130</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 13:52:17 +0000</pubDate>
+      <description><![CDATA[<p>Eski özel savcı Jack Smith, Senato Adalet Komitesi tarafından Trump ve Cumhuriyetçi milletvekillerini yasa dışı hedef aldırmakla suçlandı.</p><p>Kaynaklar: <a href="https://nypost.com/2026/09/29/us-news/jack-smith-accused-of-corrupt-probe-of-trump-republican-lawmakers/">New York Post</a></p>]]></description>
+    </item>
+    <item>
+      <title>İklim krizi turizm maliyetlerini artırıyor</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-cc5b43e3</link>
+      <guid isPermaLink="false">20260929-cc5b43e3</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 13:50:00 +0000</pubDate>
+      <description><![CDATA[<p>Avrupa Seyahat Komisyonu CEO'su, iklim değişikliğinin turizm sektöründeki etkisinin seyahat maliyetlerine doğrudan yansıdığını belirtti.</p><p>Kaynaklar: <a href="https://haberglobal.com/gundem/iklim-krizinde-tatile-zam-geldi-546411">Haber Global</a></p>]]></description>
+    </item>
+    <item>
+      <title>İran, Hürmüz Boğazı şartlarına ABD'den kesin yanıt bekliyor</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260927-061d2198</link>
+      <guid isPermaLink="false">20260927-061d2198</guid>
+      <category>Dünya</category>
+      <pubDate>Sun, 27 Sep 2026 07:29:00 +0000</pubDate>
+      <description><![CDATA[<p>İran Dışişleri Bakanı Abbas Erakçi, ABD ile Hürmüz Boğazı'nın açılması konusunda arabulucular vasıtasıyla yürüttükleri görüşmelerde henüz kesin bir yanıt alamadıklarını bildirdi.</p><ul><li>İran Ulusal Güvenlik Yüksek Konseyi tarafından belirlenen şartlar arabulucular aracılığıyla ABD'ye iletildi.</li><li>İran, Hürmüz Boğazı için sunduğu şartlardan geri adım atmayacağını belirtti.</li><li>İran heyeti, BM Genel Kurulu marjında ABD'de Katar aracılığıyla 7 şart sunmuştu.</li><li>ABD Başkanı Donald Trump daha önce İran'ın sunduğu şartları kabul etmediklerini açıklamıştı.</li></ul><p><b>Şart sayısı:</b> 7</p><p><i>Neden önemli:</i> İran, ABD'nin şartlarını yerine getirmesi halinde Hürmüz Boğazı'nın açılacağını ifade ediyor.</p><p>Kaynaklar: <a href="https://www.hurriyet.com.tr/dunya/abd-iranin-hurmuz-teklifini-yanitsiz-birakti-43321012">Hürriyet</a>, <a href="https://www.sozcu.com.tr/iran-hurmuzu-acmayacagiz-p363894">Sözcü</a>, <a href="https://www.trthaber.com/haber/dunya/iran-disisleri-bakani-katarli-arabuluculara-onerilerimizi-ilettik-abdnin-yanitini-bekliyoruz-958479.html">TRT Haber</a>, <a href="https://www.cumhuriyet.com.tr/dunya/hurmuz-pazarliginda-yeni-asama-katar-devrede-iran-abd-den-yanit-bekliyor-2541982">Cumhuriyet</a>, <a href="https://www.cnbce.com/dunya/katardan-abd-iran-mesaji-gorusmeler-devam-ediyor-hedef-ortak-zemin-h38315">CNBC-e</a>, <a href="https://www.haberturk.com/dunya/katar-abd-iran-muzakereleri-suruyor-gorus-ayriliklarini-gidermeye-calisiyoruz-3915943">Habertürk</a></p>]]></description>
+    </item>
+    <item>
+      <title>Oman'da turistik yerlerde tehlikeli durumlar</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-7ea97976</link>
+      <guid isPermaLink="false">20260929-7ea97976</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 13:42:05 +0000</pubDate>
+      <description><![CDATA[<p>Dünyanın büyüleyici bir köşesi olarak görünen bir yerde tehlikeli durumlar yaşanıyor.</p><p>Kaynaklar: <a href="https://www.sozcu.com.tr/iceride-10-dakikadan-fazla-kalanlari-olume-goturuyorlar-p364571">Sözcü</a></p>]]></description>
+    </item>
+    <item>
+      <title>Rusya'da Askeri Uçak Düştü: Altı Mürettebat Hayatını Kaybetti</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-766421f8</link>
+      <guid isPermaLink="false">20260929-766421f8</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 13:39:57 +0000</pubDate>
+      <description><![CDATA[<p>Rusya'nın Amur bölgesinde eğitim uçuşu yapan Tu-95 tipi bir uçak düştü ve kazada altı mürettebat hayatını kaybetti.</p><p>Kaynaklar: <a href="https://www.cnnturk.com/dunya/son-dakika-rusyanin-amur-bolgesinde-askeri-ucak-dustu-6-olu-3472920">CNN Türk</a></p>]]></description>
+    </item>
+    <item>
+      <title>Güneş enerjisi küresel elektrik üretiminde nükleeri geçti</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-873eff5b</link>
+      <guid isPermaLink="false">20260929-873eff5b</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 13:30:00 +0000</pubDate>
+      <description><![CDATA[<p>2025 yılında güneş enerjisinden üretilen elektrik küresel ölçekte ilk kez nükleer santrallerin üretimini geçti.</p><p>Kaynaklar: <a href="https://haberglobal.com/dunya/gunes-enerjisi-tarihte-ilk-kez-nukleeri-gecti-546409">Haber Global</a></p>]]></description>
+    </item>
+    <item>
+      <title>Estonya Rusya'nın savunma şirketine saldırısını doğruladı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-8626499f</link>
+      <guid isPermaLink="false">20260929-8626499f</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 11:31:22 +0000</pubDate>
+      <description><![CDATA[<p>Estonya, Ukrayna için insansız araç üreten Milrem Robotics'teki yangının Rusya tarafından kasıtlı bir saldırı olduğunu belirtti.</p><p>Kaynaklar: <a href="https://www.nytimes.com/2026/09/29/world/europe/estonia-russia-ukraine-milrem-fire.html">New York Times</a>, <a href="https://www.aljazeera.com/news/2026/9/29/estonia-says-russia-ordered-august-arson-attack-on-defence?traffic_source=rss">Al Jazeera</a></p>]]></description>
+    </item>
+    <item>
+      <title>Oman'da kaplumbağa binme videosu nedeniyle yasal işlem</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-1df372b5</link>
+      <guid isPermaLink="false">20260929-1df372b5</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 13:26:11 +0000</pubDate>
+      <description><![CDATA[<p>Oman'da turistik bir aktivite sırasında çekilen kaplumbağa binme videosu nedeniyle turistler hukuki süreçle karşı karşıya kaldı.</p><p>Kaynaklar: <a href="https://www.aljazeera.com/video/newsfeed/2026/9/29/tourists-face-legal-action-over-turtle-riding-video-in-oman?traffic_source=rss">Al Jazeera</a></p>]]></description>
+    </item>
+    <item>
+      <title>Aston Martin, 2027 F1 pilotlarını duyurdu</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-8ea8c4a6</link>
+      <guid isPermaLink="false">20260929-8ea8c4a6</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 11:53:00 +0000</pubDate>
+      <description><![CDATA[<p>Aston Martin, Formula 1'de 2027 sezonunda Fernando Alonso ve Lance Stroll ile devam edeceğini açıkladı.</p><p>Kaynaklar: <a href="https://haberglobal.com/spor/formula-1de-aston-martin-2027-yilindaki-pilotlarini-belirledi-546388">Haber Global</a>, <a href="https://ajansspor.com/haber/fernando-alonsonun-gelecegi-belli-oldu-aston-martin-karari-735677">Ajansspor</a>, <a href="https://www.aljazeera.com/sports/2026/9/29/fernando-alonso-f1-aston-martin-contract-extension?traffic_source=rss">Al Jazeera</a></p>]]></description>
+    </item>
+    <item>
+      <title>Arjantin, Falkland Adaları petrol projesine karşı İngiltere'ye iki hafta süre verdi</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-d6ce0a12</link>
+      <guid isPermaLink="false">20260929-d6ce0a12</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 03:50:40 +0000</pubDate>
+      <description><![CDATA[<p>Arjantin Cumhurbaşkanı Javier Milei, Falkland Adaları açıklarındaki Sea Lion petrol sahası projesinin durdurulmaması halinde İngiltere'ye karşı hukuki süreç başlatacağını duyurdu.</p><ul><li>Milei, İsrailli ve İngiliz şirketlerin ortak yürüttüğü Sea Lion petrol sahası projesine iki hafta süre verdi.</li><li>Arjantin, bu şart yerine getirilmezse uluslararası tahkime başvuracağını bildirdi.</li><li>Sea Lion sahasında tahmini 1.7 milyar varil petrol rezervi olduğu belirtiliyor.</li><li>İngiliz Savunma Bakanı Wes Streeting, Arjantin'in adaları güç kullanarak ele geçiremeyeceğini belirtti.</li></ul><p><b>Petrol rezervi:</b> 1.7 milyar varil · <b>Süre:</b> 2 hafta</p><p>Kaynaklar: <a href="https://www.bbc.co.uk/news/articles/cq5yj1835y1wo">BBC</a>, <a href="https://www.cumhuriyet.com.tr/dunya/falkland-adalari-gerilimi-yeniden-alevlendi-arjantin-den-ingiltere-ye-iki-haftalik-sure-2542005">Cumhuriyet</a>, <a href="https://www.trthaber.com/haber/dunya/ingiltere-ile-arjantin-arasinda-falkland-adalari-krizi-958504.html">TRT Haber</a>, <a href="https://haberglobal.com/dunya/falkland-gerilimi-tirmaniyor-arjantin-ingiltereye-2-hafta-sure-verdi-546349">Haber Global</a>, <a href="https://www.aljazeera.com/news/2026/9/29/argentinas-milei-threatens-legal-action-over-falklands-oil-project?traffic_source=rss">Al Jazeera</a>, <a href="https://www.haberturk.com/dunya/arjantin-falkland-petrol-projesi-nedeniyle-birlesik-krallik-a-karsi-tahkim-sureci-baslatiyor-3915877">Habertürk</a></p>]]></description>
+    </item>
+    <item>
+      <title>Nepal'de şiddetli yağış heyelanlara yol açtı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260928-7560900f</link>
+      <guid isPermaLink="false">20260928-7560900f</guid>
+      <category>Dünya</category>
+      <pubDate>Mon, 28 Sep 2026 13:14:18 +0000</pubDate>
+      <description><![CDATA[<p>Şiddetli yağışlar Nepal'in Mustang bölgesinde heyelan ve sel felaketine neden oldu. Yetkililer ülkedede daha fazla ani sel uyarısında bulunuyor.</p><ul><li>Mustang bölgesinde bir dağ parçası nehre göç etti.</li><li>Şiddetli yağışlar sel ve heyelanları tetikledi.</li><li>Yetkililer ülkedede daha fazla ani sel riski uyarısı yaptı.</li></ul><p><i>Neden önemli:</i> Nehir seviyeleri yükselmeye devam ediyor.</p><p>Kaynaklar: <a href="https://www.aljazeera.com/video/newsfeed/2026/9/28/heavy-rain-triggers-landslide-in-nepals-mustang-district?traffic_source=rss">Al Jazeera</a>, <a href="https://www.sozcu.com.tr/nepalde-dag-coktu-nehir-tasma-noktasina-geldi-p364563">Sözcü</a></p>]]></description>
+    </item>
+    <item>
+      <title>İspanya'nın doğusunda şiddetli yağışlar ulaşımı durdurdu</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-00bdc11d</link>
+      <guid isPermaLink="false">20260929-00bdc11d</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 13:15:00 +0000</pubDate>
+      <description><![CDATA[<p>İspanya'nın Katalonya bölgesinde etkili olan şiddetli yağışlar demiryolu ve hava dahil tüm ulaşımı felç etti.</p><p>Kaynaklar: <a href="https://www.trthaber.com/haber/dunya/ispanyanin-dogusundaki-siddetli-yagislar-ulasimi-durdurdu-958540.html">TRT Haber</a></p>]]></description>
+    </item>
+    <item>
+      <title>BM Genel Kurulu'nda Protestolar ve Tartışmalar Yoğunlaştı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-82653a9c</link>
+      <guid isPermaLink="false">20260929-82653a9c</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 13:07:01 +0000</pubDate>
+      <description><![CDATA[<p>Bu yılki BM Genel Kurulu kitlesel protestolar ve hararetli tartışmalarla dikkat çekmiştir.</p><p>Kaynaklar: <a href="https://www.aljazeera.com/video/newsfeed/2026/9/29/walkouts-clashes-and-moments-that-defined-unga-2026?traffic_source=rss">Al Jazeera</a></p>]]></description>
+    </item>
+    <item>
+      <title>Arizona'da kayıp kadını araştırıyorlar</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-1e516b53</link>
+      <guid isPermaLink="false">20260929-1e516b53</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 07:35:07 +0000</pubDate>
+      <description><![CDATA[<p>Arizona polisleri, Nancy Guthrie'nin kaybolmasından sekiz ay sonra yeni bir fidye notu üzerinde çalışıyor.</p><p>Kaynaklar: <a href="https://nypost.com/2026/09/29/us-news/nancy-guthrie-cops-investigate-new-possible-ransom-note-almost-eight-months-on-from-her-disappearance/">New York Post</a>, <a href="https://www.theguardian.com/us-news/2026/sep/29/nancy-guthrie-possible-new-ransom-note">The Guardian</a>, <a href="https://pagesix.com/2026/09/29/celebrity-news/nancy-guthrie-investigators-looking-into-new-possible-ransom-note/">New York Post</a></p>]]></description>
+    </item>
+    <item>
+      <title>Trump, yapay zeka devlerini Beyaz Saray'da topluyor: İnovasyon ve denge masada</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260928-68ced4b5</link>
+      <guid isPermaLink="false">20260928-68ced4b5</guid>
+      <category>Dünya</category>
+      <pubDate>Mon, 28 Sep 2026 19:49:08 +0000</pubDate>
+      <description><![CDATA[<p>ABD Başkanı Donald Trump, yapay zekanın önde gelen yöneticileriyle Beyaz Saray'da bir toplantı düzenleyecek. Toplantıda teknoloji inovasyonu ile kamu denetimi arasındaki denge ele alınacak.</p><ul><li>Toplantıya Meta CEO'su Mark Zuckerberg, Anthropic CEO'su Dario Amodei ve OpenAI Başkanı Greg Brockman'ın katılması bekleniyor.</li><li>Temsilciler Meclisi Başkanı Mike Johnson, yapay zekaya yönelik moratoryuma veya aşırı düzenlemeye ihtiyaç olmadığını belirtti.</li><li>AI şirketleri, gelişmiş yapay zeka sistemlerinin riskleri nedeniyle daha fazla güvenlik önlemi alınması gerektiğini savunuyor.</li><li>Trump, yapay zekanın küresel ölçekte kontrol edilmesine yönelik yeni bir yapıya karşı olduğunu ifade etti.</li></ul><p><i>Neden önemli:</i> Temsilciler Meclisi Başkanı Mike Johnson, aşırı düzenlemenin ABD'nin Çin ile rekabetinde geride kalmasına yol açabileceğini savunuyor.</p><p>Kaynaklar: <a href="https://www.cnbce.com/yapay-zeka/trump-yapay-zekanin-devlerini-beyaz-sarayda-topluyor-iste-masadaki-konular-h38238">CNBC-e</a>, <a href="https://www.cbsnews.com/video/tech-leaders-to-meet-with-trump-amid-ramped-up-concern-over-ai/">CBS News</a></p>]]></description>
+    </item>
+    <item>
+      <title>Lübnan, İsrail'in Ateşkes İhlallerini ABD'li Vekillerle Tartıştı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-a791c5ab</link>
+      <guid isPermaLink="false">20260929-a791c5ab</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 12:52:00 +0000</pubDate>
+      <description><![CDATA[<p>Lübnan Meclis Başkanı Berri, ABD Kongresi üyeleriyle İsrail'in ateşkese rağmen devam eden saldırılarını görüştü.</p><p>Kaynaklar: <a href="https://www.trthaber.com/haber/dunya/lubnan-israilin-ateskes-ihlallerini-abdli-vekillerle-gorustu-958538.html">TRT Haber</a></p>]]></description>
+    </item>
+    <item>
+      <title>Yüksekten atlayan BASE jumper hayatını kaybetti</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260928-e3d81f15</link>
+      <guid isPermaLink="false">20260928-e3d81f15</guid>
+      <category>Dünya</category>
+      <pubDate>Mon, 28 Sep 2026 17:34:23 +0000</pubDate>
+      <description><![CDATA[<p>700 fit yüksekliğindeki uçurumdan atlayan BASE jumper, yüksek hızla yere çarpması sonucu yaşamını yitirdi.</p><p>Kaynaklar: <a href="https://nypost.com/2026/09/29/us-news/base-jumper-who-died-in-700-foot-cliff-jump-idd-as-free-spirited-firefighter-27/">New York Post</a></p>]]></description>
+    </item>
+    <item>
+      <title>AB'den dış sınır güvenliğini artırmaya yönelik yeni plan önerisi</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-8b0d54fa</link>
+      <guid isPermaLink="false">20260929-8b0d54fa</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 12:46:30 +0000</pubDate>
+      <description><![CDATA[<p>Avrupa Birliği Komisyonu, ani ve kitlesel yasa dışı geçişleri önlemeyi amaçlayan beş maddelik yeni bir sınır güvenliği planı önerdi.</p><p>Kaynaklar: <a href="https://www.hurriyet.com.tr/dunya/avrupa-birliginden-yeni-sinir-guvenligi-plani-43323641">Hürriyet</a></p>]]></description>
+    </item>
+    <item>
+      <title>Batı Şeria'daki yerleşimci saldırısı bir ailenin evine dönüşünü engelledİ</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-ecb6f39a</link>
+      <guid isPermaLink="false">20260929-ecb6f39a</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 12:43:31 +0000</pubDate>
+      <description><![CDATA[<p>Yüksek Mahkeme askeriye'den saldırılardan kaçan bir aileyi geri göndermesini emretmesine rağmen, yerleşimcilerin engelleri bu politikaya yönelik eleştirileri artırdı.</p><p>Kaynaklar: <a href="https://www.nytimes.com/2026/09/29/world/middleeast/west-bank-israel-settlers-attack-soldiers-palestinians.html">New York Times</a></p>]]></description>
+    </item>
+    <item>
+      <title>Irak'ta ABD askeri varlığı sona erdi iddiası: 23 yıllık dönem kapandı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260928-70a1dd71</link>
+      <guid isPermaLink="false">20260928-70a1dd71</guid>
+      <category>Dünya</category>
+      <pubDate>Mon, 28 Sep 2026 08:04:00 +0000</pubDate>
+      <description><![CDATA[<p>Iraklı bir hükümet kaynağı, ABD'nin Irak topraklarından tüm muharip birlikleriyle çekildiğini bildirdi. Bu durum, 2003'te başlayan ABD askeri varlığının sona ermesi anlamına geliyor.</p><ul><li>Irak makamları, ABD öncülüğündeki koalisyonun Irak'taki askeri misyonunun 30 Eylül 2026'da sona erdiğini açıkladı.</li><li>Iraklı yetkililer, ülkede yabancı askeri üs kalmadığını ve güvenliğin tamamen Irak güçlerinin kontrolünde olduğunu belirtti.</li><li>ABD'nin Irak'taki askeri varlığı son yıllarda yaklaşık 2 bin 500 askerle azaltılmıştı.</li><li>Analistler, ABD'nin stratejik yeniden mevzilenme kapsamında bazı unsurları Ürdün ve Körfez ülkelerine taşıdığını belirtiyor.</li></ul><p><b>ABD askeri varlığı süresi:</b> 23 yıl · <b>Koalisyon misyon bitiş tarihi:</b> 30 Eylül 2026 · <b>Irak'ta konuşlanan asker sayısı:</b> Yaklaşık 2 bin 500</p><p><i>Neden önemli:</i> Bağdat yönetimi 1 Ekim'i, ülkede yabancı askeri unsurun kalmadığı tarihi bir dönüm noktası olarak ilan etti.</p><p>Kaynaklar: <a href="https://www.cumhuriyet.com.tr/dunya/irak-ta-23-yillik-donem-kapandi-abd-askerlerinin-tamamen-cekildigi-bildirildi-2541701">Cumhuriyet</a>, <a href="https://www.hurriyet.com.tr/dunya/irakli-yetkili-acikladi-abd-23-yil-sonra-tamamen-cekildi-43322338">Hürriyet</a>, <a href="https://www.scmp.com/news/world/middle-east/article/3369168/us-forces-set-complete-withdrawal-iraq-after-2-decades">South China Morning Post</a>, <a href="https://www.cnnturk.com/dunya/23-yillik-amerikan-varligi-bitiyor-iraktan-cekiliyorlar-3472809">CNN Türk</a>, <a href="https://www.sozcu.com.tr/abd-iraktan-cekiliyor-23-yillik-varlik-sona-eriyor-p364524">Sözcü</a>, <a href="http://12punto.com.tr/dunya/irakta-23-yillik-abd-askeri-donemi-kapaniyor-153819">12punto</a>, <a href="https://www.ntv.com.tr/dunya/son-abd-askerlerinin-yarin-ulkeden-ayrilmasiyla-irakta-yeni-bir-donem-baslayacak-1744053">NTV</a></p>]]></description>
+    </item>
+    <item>
+      <title>New York Times yöneticisi Kaliforniya'da kayınpederleri tarafından vuruldu</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260928-73173ac0</link>
+      <guid isPermaLink="false">20260928-73173ac0</guid>
+      <category>Dünya</category>
+      <pubDate>Mon, 28 Sep 2026 16:00:27 +0000</pubDate>
+      <description><![CDATA[<p>New York Times'ın oyunlar bölümü baş mühendisi Jonathan McKinsey, Kaliforniya'nın Dublin kentindeki bir otoparkta kayınpederleri Shouyong Zhang ve Shili Chen tarafından vurularak hayatını kaybetti.</p><ul><li>Jonathan McKinsey (40), New York Times'da 2023 yılından beri oyunlar platformu baş mühendisi olarak çalışıyordu.</li><li>Şüpheli Shouyong Zhang ve Shili Chen (her ikisi de 77 yaşında) cinayet şüphesiyle tutuklandı.</li><li>McKinsey'in cesedi, Cumartesi öğleden sonra Dublin Sports Grounds otoparkında bulundu.</li><li>Kayınpederler, birinci derece cinayet başta olmak üzere birden fazla suçlamayla karşı karşıya.</li></ul><p><b>Kurban Yaşı:</b> 40 · <b>Şüpheli Yaşı:</b> 77</p><p><i>Neden önemli:</i> McKinsey'in kayınvalidesi Candice Jang ile çocuk velayeti ve aile içi şiddet iddiaları nedeniyle hukuki bir süreç yürütülüyordu.</p><p>Kaynaklar: <a href="https://nypost.com/2026/09/28/us-news/nyt-exec-allegedly-shot-by-in-laws-charged-with-child-abuse-in-2025/">New York Post</a>, <a href="https://www.bbc.co.uk/news/articles/cred737qdv2no">BBC</a>, <a href="https://www.nytimes.com/2026/09/28/us/jonathan-mckinsey-new-york-times-shooting-california.html">New York Times</a>, <a href="https://www.theguardian.com/us-news/2026/sep/28/new-york-times-engineer-california-shooting">The Guardian</a>, <a href="https://www.scmp.com/news/world/united-states-canada/article/3369132/elderly-laws-arrested-california-shooting-death-new-york-times-employee">South China Morning Post</a>, <a href="https://www.trthaber.com/haber/dunya/new-york-times-yoneticisi-kayinpederi-ve-kayinvalidesi-tarafindan-olduruldu-958464.html">TRT Haber</a>, <a href="https://www.sozcu.com.tr/dev-gazetenin-yoneticisini-kayinpederi-ve-kayinvalidesi-oldurdu-p364396">Sözcü</a>, <a href="https://www.cumhuriyet.com.tr/dunya/new-york-times-yoneticisi-otoparkta-olduruldu-supheliler-aileden-cikti-2542000">Cumhuriyet</a>, <a href="https://www.cnnturk.com/dunya/new-york-times-yoneticisi-cinayete-kurban-gitti-kayinpeder-ve-kayinvalide-gozaltinda-3472790">CNN Türk</a>, <a href="https://www.haberturk.com/dunya/new-york-times-in-oyun-muhendisi-olduruldu-kayinpederi-ve-kayinvalidesi-gozaltina-alindi-3915919">Habertürk</a></p>]]></description>
+    </item>
+    <item>
+      <title>ABD Orta Doğu'dan çekilirken Türkiye bölgedeki etkinliğini genişletiyor</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-fb46bbe0</link>
+      <guid isPermaLink="false">20260929-fb46bbe0</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 12:42:00 +0000</pubDate>
+      <description><![CDATA[<p>ABD'nin Orta Doğu'daki askeri varlığını azaltmasıyla oluşan güç boşluğunda Türkiye'nin etkinliğini artırmaya hazırlandığı belirtildi.</p><p>Kaynaklar: <a href="https://haberglobal.com/gundem/abd-orta-dogudan-cekiliyor-turkiye-bolgeye-damga-vuruyor-546401">Haber Global</a></p>]]></description>
+    </item>
+    <item>
+      <title>Hürmüz Boğazı'nda petrol tankerine saldırı oldu</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-e05ecb35</link>
+      <guid isPermaLink="false">20260929-e05ecb35</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 12:34:51 +0000</pubDate>
+      <description><![CDATA[<p>İngiltere Deniz Ticaret Operasyonları, Hürmüz Boğazı'nda bir petrol tankerinin bilinmeyen mühimmatla hedef alındığını bildirdi.</p><p>Kaynaklar: <a href="https://www.hurriyet.com.tr/dunya/hurmuz-bogazinda-petrol-tankerine-saldiri-43323622">Hürriyet</a></p>]]></description>
+    </item>
+    <item>
+      <title>İran Sanctions ve Blokaj Nedeniyle Gıda ve İlaç Stok Yapıyor</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-8312d3c1</link>
+      <guid isPermaLink="false">20260929-8312d3c1</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 12:32:10 +0000</pubDate>
+      <description><![CDATA[<p>İran, yaptırımlar ve blokajlar nedeniyle gıda ve ilaç tedarik zincirindeki zorluklar sebebiyle stok yapıyor.</p><p>Kaynaklar: <a href="https://www.aljazeera.com/economy/2026/9/29/iranians-stock-up-on-food-and-medicine-as-fears-of-new-us-fighting-grow?traffic_source=rss">Al Jazeera</a></p>]]></description>
+    </item>
+    <item>
+      <title>ABD-Çin ilişkileri çatışmanın kaçınılmaz olmadığını gösteriyor</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-07032913</link>
+      <guid isPermaLink="false">20260929-07032913</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 12:30:06 +0000</pubDate>
+      <description><![CDATA[<p>Uzun süredir kader olarak görülen ABD ve Çin arasındaki savaş teorisi sorgulanıyor.</p><p>Kaynaklar: <a href="https://www.scmp.com/opinion/china-opinion/article/3369045/what-trap-us-china-relations-show-conflict-far-inevitable">South China Morning Post</a></p>]]></description>
+    </item>
+    <item>
+      <title>ABD uçak gemisinde kaza oldu, dört denizci yaralandı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-1b02c5a1</link>
+      <guid isPermaLink="false">20260929-1b02c5a1</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 08:50:00 +0000</pubDate>
+      <description><![CDATA[<p>ABD Donanması'na ait USS Dwight D. Eisenhower uçak gemisinde iniş sırasında kaza meydana geldi ve dört denizci yaralandı.</p><p>Kaynaklar: <a href="https://www.cumhuriyet.com.tr/dunya/abd-ucak-gemisinde-kaza-pilotlar-kurtuldu-dort-kisi-yaralandi-2542049">Cumhuriyet</a>, <a href="https://nypost.com/2026/09/29/us-news/2-us-navy-aviators-eject-while-landing-plane-on-uss-dwight-d-eisenhower-4-sailors-injured/">New York Post</a>, <a href="https://www.theguardian.com/us-news/2026/sep/29/two-navy-aviators-eject-aircraft-carrier">The Guardian</a></p>]]></description>
+    </item>
+    <item>
+      <title>Prenses Diana'nın vefatıyla ilgili yeni iddialar ortaya çıktı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-6150f7e5</link>
+      <guid isPermaLink="false">20260929-6150f7e5</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 12:24:57 +0000</pubDate>
+      <description><![CDATA[<p>Prenses Diana'nın kardeşi Earl Spencer, Kral Charles'ın Diana'nın ölümüne sevindiğine dair iddialarda bulundu.</p><p>Kaynaklar: <a href="https://www.cnnturk.com/video/dunya/kraliyeti-sarsan-diana-iddiasi-kral-charles-olum-sabahi-piyango-kazanmis-gibiydi-3472855">CNN Türk</a></p>]]></description>
+    </item>
+    <item>
+      <title>Ole Miss öğrencisi kratomdan hayatını kaybetti</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-10af8795</link>
+      <guid isPermaLink="false">20260929-10af8795</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 12:13:57 +0000</pubDate>
+      <description><![CDATA[<p>Bir Ole Miss öğrencisi, baskın yapılan bir dükkandan aldığı kratom nedeniyle odasında ölü bulundu.</p><p>Kaynaklar: <a href="https://nypost.com/2026/09/29/us-news/tragic-ole-miss-student-bought-smax-pseudo-dhm-kratom-from-raided-store-court-docs/">New York Post</a></p>]]></description>
+    </item>
+    <item>
+      <title>TikTok, çocuk kullanımı davasında Alabama ile uzlaştı: 100 milyon dolar ödeyecek</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260926-bd848e9b</link>
+      <guid isPermaLink="false">20260926-bd848e9b</guid>
+      <category>Dünya</category>
+      <pubDate>Sat, 26 Sep 2026 14:36:00 +0000</pubDate>
+      <description><![CDATA[<p>TikTok, çocukları aşırı kullanıma teşvik ettiği iddiasıyla ABD'nin Alabama eyaletinde açılan davada uzlaşmaya vardı. Şirket, davacı tarafa 100 milyon dolar ödeyecek ve kullanım kısıtlamaları getirecek.</p><ul><li>TikTok, Alabama eyaleti ile varılan uzlaşma kapsamında davacı tarafa 100 milyon dolar ödeyecek.</li><li>Alabama'daki çocukların TikTok kullanımına günlük 2 saat sınırı getirilecek.</li><li>Gece ve okul saatlerinde çocukların uygulamaya erişimi kısıtlanacak.</li><li>Ebeveynler, çocuklarının platform kullanımını daha kapsamlı denetleyebilecek.</li><li>Uzlaşma koşulları yerine getirilmezse TikTok, Alabama eyaletine 300 milyon dolara kadar ek ödeme yapabilir.</li></ul><p><b>Ödeme miktarı:</b> 100 milyon dolar · <b>Ek ceza potansiyeli:</b> 300 milyon dolar · <b>Günlük kullanım sınırı:</b> 2 saat</p><p><i>Neden önemli:</i> Uzlaşma, genç kullanıcıları uygulamada daha uzun süre tutmak amacıyla tasarlanan özellikler nedeniyle açılan davaya yanıt niteliğindedir.</p><p>Kaynaklar: <a href="https://www.trthaber.com/haber/dunya/tiktok-cocuklari-asiri-kullanima-tesvik-ettigi-iddiasiyla-abdde-acilan-davada-uzlasti-958240.html">TRT Haber</a>, <a href="https://www.hurriyet.com.tr/dunya/tiktok-uzlasmayi-kabul-etti-cocuk-davasinda-100-milyon-dolarlik-ceza-43320546">Hürriyet</a>, <a href="https://www.nytimes.com/2026/09/25/technology/tiktok-alabama-child-safety-settlement.html">New York Times</a>, <a href="https://www.cnnturk.com/dunya/tiktok-uzlasmaya-gitti-100-milyon-dolar-odeyip-cocuklara-gunluk-2-saat-siniri-getirecek-3471853">CNN Türk</a>, <a href="https://www.webtekno.com/tiktok-genc-kullanicilara-gunluk-2-saat-siniri-geliyor-h225838.html">Webtekno</a>, <a href="http://12punto.com.tr/bilim-teknoloji/tiktok-alabama-uzlasmasiyla-genc-kullanicilar-icin-gunluk-2-saat-sinirini-kabul-etti-153833">12punto</a></p>]]></description>
+    </item>
+    <item>
+      <title>Malezya Rohingya'ları Myanmar'a geri gönderdi</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-7c742470</link>
+      <guid isPermaLink="false">20260929-7c742470</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 12:08:40 +0000</pubDate>
+      <description><![CDATA[<p>Malezya, güvenlik uyarılarına rağmen Rohingya göçmenlerini Myanmar'a geri gönderme kararı aldı.</p><p>Kaynaklar: <a href="https://www.aljazeera.com/video/newsfeed/2026/9/29/malaysia-sends-rohingya-back-myanmar-despite-safety-warnings?traffic_source=rss">Al Jazeera</a></p>]]></description>
+    </item>
+    <item>
+      <title>Uganda'da gazeteci tahta çıkıyor</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260928-58f7ae00</link>
+      <guid isPermaLink="false">20260928-58f7ae00</guid>
+      <category>Dünya</category>
+      <pubDate>Mon, 28 Sep 2026 23:44:49 +0000</pubDate>
+      <description><![CDATA[<p>Kijanangoma, kraliyet ailesinin tanımadığı genç bir varis üzerindeki anlaşmazlık sonucu Uganda'da kral ilan ediliyor.</p><p>Kaynaklar: <a href="https://www.bbc.co.uk/news/articles/cx7v4glz50elo">BBC</a>, <a href="https://www.trthaber.com/haber/turkiye/ugandada-taht-kavgasi-gazeteci-kral-koltuguna-oturuyor-958463.html">TRT Haber</a>, <a href="https://www.ntv.com.tr/dunya/galeri-dunyanin-en-genc-hukumdari-oldu-taht-kavgasi-cikti-televizyon-spikeri-kral-oluyor-1744010">NTV</a>, <a href="https://nypost.com/2026/09/29/world-news/journalist-to-be-crowned-next-king-of-ugandan-monarchy-after-death-of-boy-king/">New York Post</a>, <a href="https://www.aljazeera.com/news/2026/9/29/journalist-ascends-to-throne-in-uganda-kingdom-after-succession-dispute?traffic_source=rss">Al Jazeera</a></p>]]></description>
+    </item>
+    <item>
+      <title>Mısır Piramitli Mezarda İlginç Not Bulundu</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-38c91271</link>
+      <guid isPermaLink="false">20260929-38c91271</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 12:02:08 +0000</pubDate>
+      <description><![CDATA[<p>Mısır'ın Dakhla Vahası'nda açılan bin 700 yıllık mezarda taş levhada yazılar bulundu.</p><p>Kaynaklar: <a href="https://www.sozcu.com.tr/yilanli-mezardan-cikan-not-tuyleri-urpertti-dinle-baba-p364545">Sözcü</a></p>]]></description>
+    </item>
+    <item>
+      <title>İran Hormuz üzerinden ABD'den taviz bekliyor</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-7f5a4796</link>
+      <guid isPermaLink="false">20260929-7f5a4796</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 12:00:00 +0000</pubDate>
+      <description><![CDATA[<p>İran, Körfez sevkiyatları üzerinde daha fazla kontrol sağlamak için Hormuz'u bir pazarlık aracı olarak kullanıyor.</p><p>Kaynaklar: <a href="https://www.aljazeera.com/opinions/2026/9/29/hormuz-and-yemen-iran-offers-de-escalation-at-a-price-others-will-pay?traffic_source=rss">Al Jazeera</a></p>]]></description>
+    </item>
+    <item>
+      <title>Tacikistan ekonomik yükselişini borçla sürdürebilecek mi</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-b7f39089</link>
+      <guid isPermaLink="false">20260929-b7f39089</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 11:58:32 +0000</pubDate>
+      <description><![CDATA[<p>Tacikistan'ın hızlı büyümesi, gönderilen para ve riskli devlet borcuna bağımlı.</p><p>Kaynaklar: <a href="https://www.aljazeera.com/opinions/2026/9/29/can-tajikistans-economic-boom-survive-its-debt-gamble?traffic_source=rss">Al Jazeera</a></p>]]></description>
+    </item>
+    <item>
+      <title>Dünya genelinde ağaçları yok eden böcek türü dikkat çekti</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-fdb69f5c</link>
+      <guid isPermaLink="false">20260929-fdb69f5c</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 11:56:20 +0000</pubDate>
+      <description><![CDATA[<p>Susam tanesi büyüklüğündeki bir böcek, taşıdığı mantar hastalığıyla dünya genelinde ağaçları yok ediyor.</p><p>Kaynaklar: <a href="https://www.sozcu.com.tr/turkiye-dahil-bircok-ulkede-agaclari-bir-bir-yok-ediyor-susam-tanesinden-kucuk-etkisi-buyuk-p364544">Sözcü</a></p>]]></description>
+    </item>
+    <item>
+      <title>Rubio İran'ın Felakete Yakın Olduğunu İddia Etti</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-fb42f1dc</link>
+      <guid isPermaLink="false">20260929-fb42f1dc</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 07:38:52 +0000</pubDate>
+      <description><![CDATA[<p>ABD Dışişleri Bakanı Marco Rubio, İran'ın hızla felakete doğru gittiğini ve Küba'nın çöktüğünü belirtti.</p><p>Kaynaklar: <a href="https://www.haberturk.com/dunya/abd-disisleri-bakani-rubio-iran-ve-kuba-ekonomilerinin-cokus-asamasinda-oldugunu-iddia-etti-3915830">Habertürk</a>, <a href="https://www.cnbce.com/dunya/abdden-iran-ve-kuba-mesaji-biri-felakete-gidiyor-digeri-coktan-dustu-h38273">CNBC-e</a>, <a href="https://www.cumhuriyet.com.tr/dunya/rubio-dan-iran-ve-kuba-cikisi-biri-felakete-gidiyor-digeri-coktan-dustu-2542126">Cumhuriyet</a></p>]]></description>
+    </item>
+    <item>
+      <title>Öğrencilerin kaybolmasıyla ilgili soruşturmada 17 şüpheli tutuklandı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-3a838096</link>
+      <guid isPermaLink="false">20260929-3a838096</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 11:43:24 +0000</pubDate>
+      <description><![CDATA[<p>Öğrencilerin kaybolduğu gece yapılan telefon görüşmesi analizleri sonucunda yetkililer 17 yeni şüpheli tutukladı.</p><p>Kaynaklar: <a href="https://www.cbsnews.com/news/missing-students-mexico-human-remains-new-suspects-ayotzinapa/">CBS News</a></p>]]></description>
+    </item>
+    <item>
+      <title>Burnham İş Dünyasıyla Dinleme Modunda</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-03429906</link>
+      <guid isPermaLink="false">20260929-03429906</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 11:43:16 +0000</pubDate>
+      <description><![CDATA[<p>Greater Manchester Belediye Başkanı Andy Burnham, iş dünyasıyla görüşürken mali yük artışı endişelerine değindi.</p><p>Kaynaklar: <a href="https://www.theguardian.com/business/2026/sep/29/andy-burnham-business-labour-party-conference-budget-tax-rises">The Guardian</a></p>]]></description>
+    </item>
+    <item>
+      <title>Kenya Savanasında Büyük Otçullar Geri Döndü</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-cbc7c7cd</link>
+      <guid isPermaLink="false">20260929-cbc7c7cd</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 11:42:30 +0000</pubDate>
+      <description><![CDATA[<p>Kenya savanasında 18 yıl boyunca kısıtlanan filler ve zürafalar gibi büyük otçulların alanlara girmesine izin verildi.</p><p>Kaynaklar: <a href="https://www.sozcu.com.tr/filler-ve-zurafalar-18-yil-yoktu-geri-donduklerinde-her-sey-degisti-p364537">Sözcü</a></p>]]></description>
+    </item>
+    <item>
+      <title>Senato, üniversite sporlarını düzenleyecek kapsamlı yasa geçirdi</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-444147c7</link>
+      <guid isPermaLink="false">20260929-444147c7</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 02:05:55 +0000</pubDate>
+      <description><![CDATA[<p>Senato, öğrenci sporcuların ödemeleri ve transferleri konusundaki belirsizliği sonlandırmak amacıyla iki partili geniş kapsamlı bir yasa geçirdi.</p><ul><li>Yasa, üniversite sporlarında öğrenci isim, imaj ve benzeri hakları için yapılan ödemeleri düzenleyecek.</li><li>Yasa, NCAA'ya bu kurallar üzerinde yeni yetki verecek ve sınırlı antitröst korumaları sağlayacak.</li><li>Yasa, öğrencilere yeni sağlık ve işçi korumaları getirmeyi amaçlıyor.</li><li>Yasa, henüz Temsilciler Meclisi'nden geçmesi gerekiyor.</li></ul><p><b>Senato oyu:</b> 77-22</p><p><i>Neden önemli:</i> Yasa, üniversite sporlarındaki sürekli davaları ve belirsizliği azaltmayı hedefliyor.</p><p>Kaynaklar: <a href="https://www.nytimes.com/2026/09/28/us/politics/senate-college-sports.html">New York Times</a>, <a href="https://nypost.com/2026/09/28/us-news/senate-passes-sweeping-college-sports-reforms-bill-giving-athletes-more-protections/">New York Post</a>, <a href="https://www.dailymail.com/sport/college-football/article-16168277/senate-trump-college-sports-bill.html?ns_mchannel=rss&amp;ns_campaign=1490">Daily Mail</a>, <a href="https://www.theguardian.com/sport/2026/sep/29/senate-passes-bipartisan-protect-college-sports-act-amid-chaos-in-industry">The Guardian</a></p>]]></description>
+    </item>
+    <item>
+      <title>Dünyanın En Sıra Dışı Coğrafyalarından Biri Konuşuluyor</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-22c578f6</link>
+      <guid isPermaLink="false">20260929-22c578f6</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 11:41:54 +0000</pubDate>
+      <description><![CDATA[<p>Haber, dünyanın en tekinsiz ve sıra dışı coğrafyalarından birine dikkat çekiyor.</p><p>Kaynaklar: <a href="https://www.sozcu.com.tr/dunya-bu-manzarayi-konusuyor-p364536">Sözcü</a></p>]]></description>
+    </item>
+    <item>
+      <title>East-West Forum İstanbul'da toplandı: Çok kutupluluk geri döndürülemez</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260928-cdcf7f4a</link>
+      <guid isPermaLink="false">20260928-cdcf7f4a</guid>
+      <category>Dünya</category>
+      <pubDate>Mon, 28 Sep 2026 11:03:28 +0000</pubDate>
+      <description><![CDATA[<p>30 ülkeden diplomat, akademisyen ve uzmanların katıldığı East-West Forum, İstanbul'da toplanarak küresel düzenin çok kutupluluğa dönüştüğünü belirtti.</p><ul><li>Forum, Batı merkezli tek kutuplu düzenin çözüldüğünü ve çok kutupluluğun geri döndürülemez bir gerçeklik olduğunu vurguladı.</li><li>Katılımcılar, vekâlet savaşlarının doğrudan çatışma eşiğini düşürdüğüne dikkat çekti.</li><li>Prof. Dr. Ulrike Guérot, Avrupa'nın gücünden değil, kabullenemediği zaafından tehlikeli olduğunu ifade etti.</li><li>Forum, her yıl eylül ayının üçüncü haftasında İstanbul'da düzenli olarak toplanacağını duyurdu.</li></ul><p><b>Katılımcı sayısı:</b> 30 ülke</p><p><i>Neden önemli:</i> Forum, değişen dünya düzeninin hangi ilkeler ve güç dengeleri üzerinde şekilleneceğine ilişkin farklı merkezlerin söz aldığı yeni bir uluslararası platform olma iddiasıyla kuruldu.</p><p>Kaynaklar: <a href="http://12punto.com.tr/gundem/east-west-forum-istanbulda-toplandi-cok-kutupluluk-geri-dondurulemez-153678">12punto</a>, <a href="https://www.cumhuriyet.com.tr/dunya/east-west-forum-istanbul-da-toplandi-cok-kutupluluk-geri-dondurulemez-2542124">Cumhuriyet</a></p>]]></description>
+    </item>
+    <item>
+      <title>Slovakya'da okul öğrencisi öğretmeni bıçakladı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-ae67d6df</link>
+      <guid isPermaLink="false">20260929-ae67d6df</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 11:33:01 +0000</pubDate>
+      <description><![CDATA[<p>Slovakya'nın kuzeybatısındaki bir ilkokulunda bir öğrenci bir öğretmeni bıçaklayarak öldürdü ve en az iki kişiyi yaraladı.</p><p>Kaynaklar: <a href="https://nypost.com/2026/09/29/world-news/slovakia-elementary-school-student-fatally-stabs-teacher-injures-at-least-two-others/">New York Post</a></p>]]></description>
+    </item>
+    <item>
+      <title>ABD Adalet Bakanlığı Sosyal Güvenlik Dolandırıcılığını Soruşturuyor</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-774cf9b1</link>
+      <guid isPermaLink="false">20260929-774cf9b1</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 11:26:41 +0000</pubDate>
+      <description><![CDATA[<p>ABD Adalet Bakanlığı, sosyal güvenlik programlarından 1.3 milyon dolar çalan 17 kişiyi soruşturuyor.</p><p>Kaynaklar: <a href="https://nypost.com/2026/09/29/us-news/doj-charges-17-people-accused-of-stealing-1-3-million-in-social-security-benefits-including-woman-who-kept-dead-mom-in-freezer/">New York Post</a></p>]]></description>
+    </item>
+    <item>
+      <title>Netanyahu'nun BAE ziyareti ve Hamas saldırısı öncesi uyarı iddiaları gündemde</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260927-583a9ec4</link>
+      <guid isPermaLink="false">20260927-583a9ec4</guid>
+      <category>Dünya</category>
+      <pubDate>Sun, 27 Sep 2026 07:39:00 +0000</pubDate>
+      <description><![CDATA[<p>7 Ekim 2023 Hamas saldırıları öncesinde Birleşik Arap Emirlikleri (BAE) ve Mısır'ın İsrail Başbakanı Netanyahu'yu uyardığı iddiaları tartışılıyor. Netanyahu'nun BAE Devlet Başkanı Muhammed bin Zayid Al Nahyan ile gizli görüşme yaptığı öne sürülüyor.</p><ul><li>New York Times'a dayandırılan haberlere göre, BAE Devlet Başkanı Muhammed bin Zayid Al Nahyan, Netanyahu'yu Hamas'ın büyük bir saldırı planladığı konusunda uyardı.</li><li>Mısır istihbarat şefi Kamel'in, 7 Ekim öncesinde Netanyahu ile üç kez Hamas'ın saldırı hazırlığında olduğunu bildirdiği iddia edildi.</li><li>Netanyahu'nun ofisi, Kamel ile yaptığı görüşme iddialarına yanıt vermedi.</li><li>Bazı kaynaklar, Netanyahu'nun BAE Devlet Başkanı Muhammed bin Zayid Al Nahyan'dan bu haberleri yalanlamasını istediğini aktardı.</li></ul><p><b>Saldırı tarihi:</b> 7 Ekim 2023</p><p><i>Neden önemli:</i> İsrail muhalefeti, Netanyahu'yu savaş öncesi eylemlerinden dolayı sorguluyor.</p><p>Kaynaklar: <a href="https://www.cumhuriyet.com.tr/dunya/nyt-den-7-ekim-iddiasi-bae-netanyahu-yu-saldiridan-once-uyarmis-2541419">Cumhuriyet</a>, <a href="https://www.sozcu.com.tr/tum-savaslari-bunun-uzerine-kurulu-yalani-ortaya-cikan-netanyahu-apar-topar-arap-ulkesine-gitti-p364217">Sözcü</a>, <a href="https://www.hurriyet.com.tr/dunya/netanyahudan-baeye-surpriz-ziyaret-43322881">Hürriyet</a>, <a href="https://www.cnnturk.com/video/dunya/iki-ulke-de-dogruladi-netanyahudan-gizli-bae-ziyareti-7-ekim-iddialarini-yalanlamasi-mi-istendi-3472837">CNN Türk</a></p>]]></description>
+    </item>
+    <item>
+      <title>İsrail güvenlik bakanından tehdit</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-3f5920a4</link>
+      <guid isPermaLink="false">20260929-3f5920a4</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 10:28:56 +0000</pubDate>
+      <description><![CDATA[<p>İsrail Ulusal Güvenlik Bakanı Itamar Ben-Gvir, savunma bakanlığı görevinde Yahya Sinvar'ın cenazesini yakacağını söyledi.</p><p>Kaynaklar: <a href="https://www.haberturk.com/dunya/israilli-asiri-sagci-bakan-ben-gvir-den-eski-hamas-lideri-sinvar-in-cenazesini-yakma-tehdidi-3915888">Habertürk</a>, <a href="https://www.ntv.com.tr/dunya/israilli-asiri-sagci-bakan-ben-gvirden-eski-hamas-lideri-sinvarin-cenazesini-yakma-tehdidi-1744045">NTV</a></p>]]></description>
+    </item>
+    <item>
+      <title>Türkiye Çelik Kubbe ile Hava Sınırını Güçlendiriyor</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-e395e296</link>
+      <guid isPermaLink="false">20260929-e395e296</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 07:44:45 +0000</pubDate>
+      <description><![CDATA[<p>Bölgesel gerilimler nedeniyle Türkiye hava sahasını Çelik Kubbe sistemiyle güçlendiriyor.</p><p>Kaynaklar: <a href="https://www.ntv.com.tr/turkiye/video-siper-hava-savunma-sistemini-gorev-basinda-ilk-kez-ntv-goruntuledi-1743982">NTV</a></p>]]></description>
+    </item>
+    <item>
+      <title>Avustralya'da kurbağa salma girişimi yıllar sonra faciaya dönüştü</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-941e32b3</link>
+      <guid isPermaLink="false">20260929-941e32b3</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 11:16:15 +0000</pubDate>
+      <description><![CDATA[<p>Avustralya'da şeker kamışı tarlalarındaki zararlılarla mücadele için doğaya salınan kamış kurbağaları yıllar sonra sorun yarattı.</p><p>Kaynaklar: <a href="https://www.sozcu.com.tr/tarlalari-kurtarmak-icin-binlerce-kurbagayi-dogaya-saldilar-yillar-sonra-faciayi-yasadilar-p364530">Sözcü</a></p>]]></description>
+    </item>
+    <item>
+      <title>Wells Fargo, Cornell'dan birini işten çıkardı</title>
+      <link>https://newsfeed-pi.vercel.app/haber/20260929-bb1aa2dc</link>
+      <guid isPermaLink="false">20260929-bb1aa2dc</guid>
+      <category>Dünya</category>
+      <pubDate>Tue, 29 Sep 2026 11:14:33 +0000</pubDate>
+      <description><![CDATA[<p>Savcılık soruşturmasını yeniden başlattıktan sonra Wells Fargo, Cornell'daki bir frat üyesini işten çıkardı.</p><p>Kaynaklar: <a href="https://nypost.com/2026/09/29/us-news/wells-fargo-fires-cornell-7-frat-bro-diego-sarabia-accused-of-raping-drugging-former-student-after-probe-is-reopened/">New York Post</a></p>]]></description>
+    </item>
+  </channel>
+</rss>
